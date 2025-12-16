@@ -1,0 +1,1121 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'phlegm'}),"frozenset({'chest pain', 'malaise'})",0.06951219512195123,0.9661016949152544,13.658679135008772
+"frozenset({'chest pain', 'malaise'})",frozenset({'phlegm'}),0.06951219512195123,0.9827586206896554,13.65867913500877
+frozenset({'phlegm'}),"frozenset({'chest pain', 'fatigue'})",0.06829268292682927,0.9491525423728815,13.654475170978294
+"frozenset({'chest pain', 'chills'})",frozenset({'phlegm'}),0.06829268292682927,0.9824561403508771,13.654475170978294
+frozenset({'phlegm'}),"frozenset({'chest pain', 'chills'})",0.06829268292682927,0.9491525423728815,13.654475170978294
+"frozenset({'chest pain', 'fatigue'})",frozenset({'phlegm'}),0.06829268292682927,0.9824561403508771,13.654475170978294
+frozenset({'phlegm'}),"frozenset({'chest pain', 'high fever'})",0.06829268292682927,0.9491525423728815,13.654475170978294
+"frozenset({'chest pain', 'high fever'})",frozenset({'phlegm'}),0.06829268292682927,0.9824561403508771,13.654475170978294
+"frozenset({'cough', 'malaise'})",frozenset({'phlegm'}),0.06585365853658537,0.9818181818181818,13.645608628659478
+frozenset({'phlegm'}),"frozenset({'cough', 'malaise'})",0.06585365853658537,0.9152542372881357,13.645608628659478
+"frozenset({'chills', 'cough'})",frozenset({'phlegm'}),0.06463414634146342,0.9814814814814815,13.640929064657879
+frozenset({'phlegm'}),"frozenset({'chills', 'cough'})",0.06463414634146342,0.8983050847457628,13.640929064657879
+"frozenset({'cough', 'fatigue'})",frozenset({'phlegm'}),0.06463414634146342,0.7571428571428571,10.523002421307506
+frozenset({'phlegm'}),"frozenset({'cough', 'fatigue'})",0.06463414634146342,0.8983050847457628,10.523002421307506
+"frozenset({'chest pain', 'cough'})",frozenset({'phlegm'}),0.06829268292682927,0.7466666666666667,10.377401129943504
+frozenset({'phlegm'}),"frozenset({'chest pain', 'cough'})",0.06829268292682927,0.9491525423728815,10.377401129943504
+"frozenset({'cough', 'high fever'})",frozenset({'phlegm'}),0.06463414634146342,0.7464788732394367,10.374791119598951
+frozenset({'phlegm'}),"frozenset({'cough', 'high fever'})",0.06463414634146342,0.8983050847457628,10.374791119598951
+frozenset({'phlegm'}),"frozenset({'chills', 'malaise'})",0.06585365853658537,0.9152542372881357,10.280938007894127
+"frozenset({'chills', 'malaise'})",frozenset({'phlegm'}),0.06585365853658537,0.7397260273972603,10.280938007894127
+frozenset({'blurred and distorted vision'}),frozenset({'excessive hunger'}),0.06707317073170732,0.9649122807017544,10.275689223057643
+frozenset({'excessive hunger'}),frozenset({'blurred and distorted vision'}),0.06707317073170732,0.7142857142857143,10.275689223057643
+frozenset({'breathlessness'}),"frozenset({'chest pain', 'sweating'})",0.06219512195121951,0.68,10.138181818181819
+"frozenset({'chest pain', 'sweating'})",frozenset({'breathlessness'}),0.06219512195121951,0.9272727272727272,10.138181818181819
+frozenset({'swelled lymph nodes'}),"frozenset({'high fever', 'malaise'})",0.06585365853658537,0.9310344827586208,8.298350824587708
+"frozenset({'high fever', 'malaise'})",frozenset({'swelled lymph nodes'}),0.06585365853658537,0.5869565217391305,8.298350824587708
+"frozenset({'chest pain', 'phlegm'})",frozenset({'cough'}),0.06829268292682927,0.9491525423728815,8.279841327082583
+frozenset({'phlegm'}),frozenset({'cough'}),0.06829268292682927,0.9491525423728815,8.279841327082583
+frozenset({'cough'}),frozenset({'phlegm'}),0.06829268292682927,0.5957446808510638,8.279841327082583
+frozenset({'cough'}),"frozenset({'chest pain', 'phlegm'})",0.06829268292682927,0.5957446808510638,8.279841327082583
+frozenset({'cough'}),"frozenset({'chest pain', 'malaise'})",0.06707317073170732,0.5851063829787234,8.27219369038885
+"frozenset({'chest pain', 'malaise'})",frozenset({'cough'}),0.06707317073170732,0.9482758620689656,8.272193690388848
+"frozenset({'phlegm', 'malaise'})",frozenset({'cough'}),0.06585365853658537,0.9473684210526315,8.264277715565509
+"frozenset({'chest pain', 'fatigue'})",frozenset({'cough'}),0.06585365853658537,0.9473684210526315,8.264277715565509
+"frozenset({'chest pain', 'chills'})",frozenset({'cough'}),0.06585365853658537,0.9473684210526315,8.264277715565509
+"frozenset({'chest pain', 'high fever'})",frozenset({'cough'}),0.06585365853658537,0.9473684210526315,8.264277715565509
+frozenset({'cough'}),"frozenset({'chest pain', 'high fever'})",0.06585365853658537,0.574468085106383,8.264277715565509
+frozenset({'cough'}),"frozenset({'chest pain', 'fatigue'})",0.06585365853658537,0.574468085106383,8.264277715565509
+frozenset({'cough'}),"frozenset({'chest pain', 'chills'})",0.06585365853658537,0.574468085106383,8.264277715565509
+frozenset({'cough'}),"frozenset({'phlegm', 'malaise'})",0.06585365853658537,0.574468085106383,8.264277715565509
+"frozenset({'phlegm', 'fatigue'})",frozenset({'cough'}),0.06463414634146342,0.9464285714285714,8.256079027355623
+"frozenset({'phlegm', 'high fever'})",frozenset({'cough'}),0.06463414634146342,0.9464285714285714,8.256079027355623
+"frozenset({'chills', 'phlegm'})",frozenset({'cough'}),0.06463414634146342,0.9464285714285714,8.256079027355623
+frozenset({'cough'}),"frozenset({'phlegm', 'high fever'})",0.06463414634146342,0.5638297872340425,8.256079027355621
+frozenset({'cough'}),"frozenset({'chills', 'phlegm'})",0.06463414634146342,0.5638297872340425,8.256079027355621
+frozenset({'cough'}),"frozenset({'phlegm', 'fatigue'})",0.06463414634146342,0.5638297872340425,8.256079027355621
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06463414634146342,0.5578947368421052,8.169172932330826
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'dark urine'}),0.06463414634146342,0.9464285714285714,8.169172932330826
+frozenset({'dark urine'}),"frozenset({'joint pain', 'abdominal pain'})",0.06341463414634146,0.5473684210526315,8.160765550239233
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'dark urine'}),0.06341463414634146,0.9454545454545454,8.160765550239233
+"frozenset({'high fever', 'malaise'})",frozenset({'phlegm'}),0.06585365853658537,0.5869565217391305,8.157700810611646
+frozenset({'phlegm'}),"frozenset({'high fever', 'malaise'})",0.06585365853658537,0.9152542372881357,8.157700810611644
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'dark urine'}),0.06219512195121951,0.9444444444444444,8.15204678362573
+frozenset({'dark urine'}),"frozenset({'joint pain', 'yellowish skin'})",0.06219512195121951,0.5368421052631579,8.15204678362573
+frozenset({'cough'}),"frozenset({'breathlessness', 'high fever'})",0.06097560975609756,0.5319148936170213,8.077226162332545
+"frozenset({'breathlessness', 'high fever'})",frozenset({'cough'}),0.06097560975609756,0.9259259259259258,8.077226162332543
+frozenset({'cough'}),"frozenset({'breathlessness', 'fatigue'})",0.05975609756097561,0.5212765957446808,8.065034122842231
+"frozenset({'breathlessness', 'fatigue'})",frozenset({'cough'}),0.05975609756097561,0.9245283018867924,8.065034122842231
+"frozenset({'chills', 'fatigue'})",frozenset({'phlegm'}),0.06463414634146342,0.5760869565217391,8.006632277081799
+frozenset({'phlegm'}),"frozenset({'chills', 'fatigue'})",0.06463414634146342,0.8983050847457628,8.006632277081799
+"frozenset({'cough', 'high fever'})",frozenset({'breathlessness'}),0.06097560975609756,0.7042253521126761,7.699530516431926
+frozenset({'breathlessness'}),"frozenset({'cough', 'high fever'})",0.06097560975609756,0.6666666666666666,7.699530516431925
+frozenset({'irritability'}),frozenset({'excessive hunger'}),0.06951219512195123,0.7215189873417722,7.683708696366925
+frozenset({'excessive hunger'}),frozenset({'irritability'}),0.06951219512195123,0.7402597402597403,7.683708696366924
+"frozenset({'cough', 'fatigue'})",frozenset({'breathlessness'}),0.05975609756097561,0.7,7.653333333333333
+frozenset({'breathlessness'}),"frozenset({'cough', 'fatigue'})",0.05975609756097561,0.6533333333333333,7.653333333333332
+"frozenset({'chills', 'headache'})",frozenset({'muscle pain'}),0.06585365853658537,0.7297297297297298,7.5744098528908665
+frozenset({'muscle pain'}),"frozenset({'chills', 'headache'})",0.06585365853658537,0.6835443037974683,7.574409852890866
+"frozenset({'phlegm', 'high fever'})",frozenset({'chest pain'}),0.06829268292682927,1.0,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'phlegm', 'malaise'})",0.06951219512195123,0.4913793103448277,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'cough', 'malaise'})",0.06707317073170732,0.4741379310344828,7.06896551724138
+"frozenset({'cough', 'malaise'})",frozenset({'chest pain'}),0.06707317073170732,1.0,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'cough', 'phlegm'})",0.06829268292682927,0.48275862068965525,7.06896551724138
+"frozenset({'phlegm', 'fatigue'})",frozenset({'chest pain'}),0.06829268292682927,1.0,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'phlegm', 'fatigue'})",0.06829268292682927,0.48275862068965525,7.06896551724138
+frozenset({'phlegm'}),frozenset({'chest pain'}),0.07195121951219512,1.0,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'chills', 'cough'})",0.06585365853658537,0.4655172413793104,7.06896551724138
+"frozenset({'cough', 'phlegm'})",frozenset({'chest pain'}),0.06829268292682927,1.0,7.06896551724138
+"frozenset({'phlegm', 'malaise'})",frozenset({'chest pain'}),0.06951219512195123,1.0,7.06896551724138
+"frozenset({'chills', 'cough'})",frozenset({'chest pain'}),0.06585365853658537,1.0,7.06896551724138
+"frozenset({'chills', 'phlegm'})",frozenset({'chest pain'}),0.06829268292682927,1.0,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'chills', 'phlegm'})",0.06829268292682927,0.48275862068965525,7.06896551724138
+frozenset({'chest pain'}),"frozenset({'phlegm', 'high fever'})",0.06829268292682927,0.48275862068965525,7.06896551724138
+frozenset({'chest pain'}),frozenset({'phlegm'}),0.07195121951219512,0.5086206896551724,7.068965517241379
+"frozenset({'breathlessness', 'sweating'})",frozenset({'chest pain'}),0.06219512195121951,0.9807692307692307,6.933023872679046
+frozenset({'chest pain'}),"frozenset({'breathlessness', 'sweating'})",0.06219512195121951,0.43965517241379315,6.933023872679046
+frozenset({'swelled lymph nodes'}),frozenset({'malaise'}),0.06951219512195123,0.9827586206896554,6.887709991158269
+frozenset({'malaise'}),frozenset({'swelled lymph nodes'}),0.06951219512195123,0.4871794871794873,6.887709991158269
+frozenset({'malaise'}),"frozenset({'swelled lymph nodes', 'high fever'})",0.06585365853658537,0.4615384615384616,6.881118881118882
+frozenset({'malaise'}),"frozenset({'swelled lymph nodes', 'fatigue'})",0.06585365853658537,0.4615384615384616,6.881118881118882
+"frozenset({'swelled lymph nodes', 'fatigue'})",frozenset({'malaise'}),0.06585365853658537,0.9818181818181818,6.881118881118882
+"frozenset({'swelled lymph nodes', 'high fever'})",frozenset({'malaise'}),0.06585365853658537,0.9818181818181818,6.881118881118882
+frozenset({'swelled lymph nodes'}),"frozenset({'malaise', 'fatigue'})",0.06585365853658537,0.9310344827586208,6.877912395153775
+"frozenset({'malaise', 'fatigue'})",frozenset({'swelled lymph nodes'}),0.06585365853658537,0.48648648648648646,6.877912395153775
+"frozenset({'nausea', 'dark urine'})",frozenset({'joint pain'}),0.06219512195121951,0.9444444444444444,6.793372319688109
+frozenset({'joint pain'}),"frozenset({'nausea', 'dark urine'})",0.06219512195121951,0.4473684210526315,6.793372319688108
+frozenset({'phlegm'}),frozenset({'malaise'}),0.06951219512195123,0.9661016949152544,6.770969143850502
+"frozenset({'chest pain', 'phlegm'})",frozenset({'malaise'}),0.06951219512195123,0.9661016949152544,6.770969143850502
+frozenset({'malaise'}),"frozenset({'chest pain', 'phlegm'})",0.06951219512195123,0.4871794871794873,6.770969143850501
+frozenset({'malaise'}),frozenset({'phlegm'}),0.06951219512195123,0.4871794871794873,6.770969143850501
+"frozenset({'chest pain', 'high fever'})",frozenset({'malaise'}),0.06707317073170732,0.9649122807017544,6.762633078422553
+"frozenset({'chest pain', 'fatigue'})",frozenset({'malaise'}),0.06707317073170732,0.9649122807017544,6.762633078422553
+"frozenset({'chest pain', 'chills'})",frozenset({'malaise'}),0.06707317073170732,0.9649122807017544,6.762633078422553
+frozenset({'malaise'}),"frozenset({'chest pain', 'high fever'})",0.06707317073170732,0.47008547008547014,6.762633078422552
+frozenset({'malaise'}),"frozenset({'chest pain', 'fatigue'})",0.06707317073170732,0.47008547008547014,6.762633078422552
+frozenset({'malaise'}),"frozenset({'chest pain', 'chills'})",0.06707317073170732,0.47008547008547014,6.762633078422552
+frozenset({'phlegm'}),"frozenset({'malaise', 'fatigue'})",0.06585365853658537,0.9152542372881357,6.761337608795237
+"frozenset({'malaise', 'fatigue'})",frozenset({'phlegm'}),0.06585365853658537,0.48648648648648646,6.761337608795236
+"frozenset({'phlegm', 'high fever'})",frozenset({'malaise'}),0.06585365853658537,0.9642857142857143,6.758241758241759
+frozenset({'malaise'}),"frozenset({'cough', 'phlegm'})",0.06585365853658537,0.4615384615384616,6.758241758241759
+"frozenset({'cough', 'phlegm'})",frozenset({'malaise'}),0.06585365853658537,0.9642857142857143,6.758241758241759
+frozenset({'malaise'}),"frozenset({'chills', 'phlegm'})",0.06585365853658537,0.4615384615384616,6.758241758241759
+"frozenset({'chills', 'phlegm'})",frozenset({'malaise'}),0.06585365853658537,0.9642857142857143,6.758241758241759
+frozenset({'malaise'}),"frozenset({'phlegm', 'high fever'})",0.06585365853658537,0.4615384615384616,6.758241758241759
+frozenset({'malaise'}),"frozenset({'phlegm', 'fatigue'})",0.06585365853658537,0.4615384615384616,6.758241758241759
+"frozenset({'phlegm', 'fatigue'})",frozenset({'malaise'}),0.06585365853658537,0.9642857142857143,6.758241758241759
+"frozenset({'chills', 'cough'})",frozenset({'malaise'}),0.06341463414634146,0.9629629629629629,6.748971193415638
+frozenset({'malaise'}),"frozenset({'chills', 'cough'})",0.06341463414634146,0.4444444444444445,6.748971193415638
+frozenset({'sweating'}),"frozenset({'chest pain', 'breathlessness'})",0.06219512195121951,0.45132743362831856,6.728881737731294
+"frozenset({'chest pain', 'breathlessness'})",frozenset({'sweating'}),0.06219512195121951,0.9272727272727272,6.728881737731294
+"frozenset({'chills', 'high fever'})",frozenset({'phlegm'}),0.06463414634146342,0.4818181818181818,6.696456086286595
+frozenset({'phlegm'}),"frozenset({'chills', 'high fever'})",0.06463414634146342,0.8983050847457628,6.696456086286594
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.08780487804878048,0.7578947368421052,6.611422172452406
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'dark urine'}),0.08780487804878048,0.7659574468085105,6.611422172452406
+frozenset({'dark urine'}),"frozenset({'yellowish skin', 'fatigue'})",0.08292682926829269,0.7157894736842105,6.521637426900585
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'dark urine'}),0.08292682926829269,0.7555555555555556,6.521637426900585
+frozenset({'dark urine'}),"frozenset({'abdominal pain', 'fatigue'})",0.08414634146341464,0.7263157894736842,6.473684210526316
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'dark urine'}),0.08414634146341464,0.75,6.473684210526315
+"frozenset({'chills', 'malaise'})",frozenset({'cough'}),0.06341463414634146,0.7123287671232877,6.213931798309531
+frozenset({'cough'}),"frozenset({'chills', 'malaise'})",0.06341463414634146,0.5531914893617021,6.213931798309531
+frozenset({'breathlessness'}),frozenset({'cough'}),0.06463414634146342,0.7066666666666667,6.164539007092198
+frozenset({'cough'}),frozenset({'breathlessness'}),0.06463414634146342,0.5638297872340425,6.164539007092198
+frozenset({'dark urine'}),"frozenset({'joint pain', 'vomiting'})",0.06219512195121951,0.5368421052631579,6.114035087719299
+"frozenset({'joint pain', 'vomiting'})",frozenset({'dark urine'}),0.06219512195121951,0.7083333333333334,6.114035087719298
+"frozenset({'headache', 'high fever'})",frozenset({'muscle pain'}),0.06585365853658537,0.5869565217391305,6.092460099064392
+frozenset({'muscle pain'}),"frozenset({'headache', 'high fever'})",0.06585365853658537,0.6835443037974683,6.092460099064391
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'dark urine'}),0.06341463414634146,0.7027027027027027,6.065433854907539
+frozenset({'dark urine'}),"frozenset({'joint pain', 'loss of appetite'})",0.06341463414634146,0.5473684210526315,6.065433854907538
+"frozenset({'joint pain', 'nausea'})",frozenset({'dark urine'}),0.06219512195121951,0.6986301369863014,6.030281182408075
+frozenset({'dark urine'}),"frozenset({'joint pain', 'nausea'})",0.06219512195121951,0.5368421052631579,6.030281182408075
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.08780487804878048,0.9863013698630136,5.946817082997582
+frozenset({'yellowing of eyes'}),"frozenset({'dark urine', 'loss of appetite'})",0.08780487804878048,0.5294117647058822,5.9468170829975815
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'abdominal pain'})",0.06585365853658537,0.39705882352941174,5.919786096256684
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'yellowing of eyes'}),0.06585365853658537,0.9818181818181818,5.919786096256684
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'dark urine'})",0.06463414634146342,0.3897058823529412,5.917755991285403
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'dark urine'})",0.06463414634146342,0.3897058823529412,5.917755991285403
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'yellowish skin'})",0.06463414634146342,0.3897058823529412,5.917755991285403
+"frozenset({'joint pain', 'dark urine'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.9814814814814815,5.917755991285403
+"frozenset({'nausea', 'dark urine'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.9814814814814815,5.917755991285403
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.9814814814814815,5.917755991285403
+frozenset({'chills'}),"frozenset({'chest pain', 'phlegm'})",0.06829268292682927,0.4210526315789474,5.851917930419269
+"frozenset({'chest pain', 'phlegm'})",frozenset({'chills'}),0.06829268292682927,0.9491525423728815,5.851917930419269
+frozenset({'phlegm'}),frozenset({'chills'}),0.06829268292682927,0.9491525423728815,5.851917930419269
+frozenset({'chills'}),frozenset({'phlegm'}),0.06829268292682927,0.4210526315789474,5.851917930419269
+frozenset({'chills'}),"frozenset({'chest pain', 'malaise'})",0.06707317073170732,0.4135338345864662,5.846512833808661
+"frozenset({'chest pain', 'malaise'})",frozenset({'chills'}),0.06707317073170732,0.9482758620689656,5.84651283380866
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'dark urine'}),0.1048780487804878,0.6771653543307087,5.845006216328222
+frozenset({'dark urine'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.1048780487804878,0.9052631578947368,5.845006216328222
+frozenset({'chills'}),"frozenset({'phlegm', 'malaise'})",0.06585365853658537,0.40601503759398494,5.840918084685397
+"frozenset({'phlegm', 'malaise'})",frozenset({'chills'}),0.06585365853658537,0.9473684210526315,5.840918084685397
+frozenset({'chills'}),"frozenset({'chest pain', 'high fever'})",0.06585365853658537,0.40601503759398494,5.840918084685397
+"frozenset({'chest pain', 'high fever'})",frozenset({'chills'}),0.06585365853658537,0.9473684210526315,5.840918084685397
+"frozenset({'chest pain', 'fatigue'})",frozenset({'chills'}),0.06585365853658537,0.9473684210526315,5.840918084685397
+frozenset({'chills'}),"frozenset({'chest pain', 'fatigue'})",0.06585365853658537,0.40601503759398494,5.840918084685397
+"frozenset({'headache', 'muscle pain'})",frozenset({'chills'}),0.06585365853658537,0.9473684210526315,5.840918084685397
+frozenset({'chills'}),"frozenset({'headache', 'muscle pain'})",0.06585365853658537,0.40601503759398494,5.840918084685397
+"frozenset({'phlegm', 'fatigue'})",frozenset({'chills'}),0.06463414634146342,0.9464285714285714,5.835123523093448
+"frozenset({'phlegm', 'high fever'})",frozenset({'chills'}),0.06463414634146342,0.9464285714285714,5.835123523093448
+"frozenset({'muscle pain', 'high fever'})",frozenset({'chills'}),0.06463414634146342,0.9464285714285714,5.835123523093448
+"frozenset({'cough', 'phlegm'})",frozenset({'chills'}),0.06463414634146342,0.9464285714285714,5.835123523093448
+frozenset({'chills'}),"frozenset({'muscle pain', 'high fever'})",0.06463414634146342,0.39849624060150374,5.835123523093447
+frozenset({'chills'}),"frozenset({'phlegm', 'fatigue'})",0.06463414634146342,0.39849624060150374,5.835123523093447
+frozenset({'chills'}),"frozenset({'cough', 'phlegm'})",0.06463414634146342,0.39849624060150374,5.835123523093447
+frozenset({'chills'}),"frozenset({'phlegm', 'high fever'})",0.06463414634146342,0.39849624060150374,5.835123523093447
+"frozenset({'cough', 'malaise'})",frozenset({'chills'}),0.06341463414634146,0.9454545454545454,5.829118250170882
+frozenset({'chills'}),"frozenset({'cough', 'malaise'})",0.06341463414634146,0.39097744360902253,5.829118250170881
+"frozenset({'sweating', 'high fever'})",frozenset({'chills'}),0.06219512195121951,0.9444444444444444,5.822890559732665
+frozenset({'chills'}),"frozenset({'sweating', 'high fever'})",0.06219512195121951,0.38345864661654133,5.822890559732665
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.12804878048780488,0.963302752293578,5.808148947652455
+frozenset({'yellowing of eyes'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.12804878048780488,0.7720588235294117,5.808148947652454
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'yellowish skin'})",0.1048780487804878,0.6323529411764706,5.761437908496732
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'yellowing of eyes'}),0.1048780487804878,0.9555555555555555,5.761437908496731
+frozenset({'cough'}),frozenset({'chest pain'}),0.09146341463414634,0.7978723404255319,5.64013206162876
+frozenset({'chest pain'}),frozenset({'cough'}),0.09146341463414634,0.646551724137931,5.64013206162876
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'dark urine'}),0.08658536585365853,0.6454545454545454,5.571291866028707
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.08658536585365853,0.7473684210526315,5.571291866028707
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'dark urine'}),0.08536585365853659,0.6422018348623854,5.543215837759536
+frozenset({'dark urine'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.08536585365853659,0.736842105263158,5.543215837759536
+frozenset({'dark urine'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.08414634146341464,0.7263157894736842,5.464027040077258
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'dark urine'}),0.08414634146341464,0.6330275229357798,5.464027040077257
+frozenset({'chest pain'}),"frozenset({'cough', 'fatigue'})",0.06585365853658537,0.4655172413793104,5.45320197044335
+"frozenset({'cough', 'fatigue'})",frozenset({'chest pain'}),0.06585365853658537,0.7714285714285714,5.45320197044335
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'dark urine'}),0.08292682926829269,0.6296296296296297,5.434697855750487
+frozenset({'dark urine'}),"frozenset({'vomiting', 'yellowish skin'})",0.08292682926829269,0.7157894736842105,5.434697855750487
+"frozenset({'cough', 'high fever'})",frozenset({'chest pain'}),0.06585365853658537,0.7605633802816902,5.376396308887811
+frozenset({'chest pain'}),"frozenset({'cough', 'high fever'})",0.06585365853658537,0.4655172413793104,5.37639630888781
+frozenset({'chest pain'}),"frozenset({'chills', 'malaise'})",0.06707317073170732,0.4741379310344828,5.325932923948986
+"frozenset({'chills', 'malaise'})",frozenset({'chest pain'}),0.06707317073170732,0.7534246575342467,5.325932923948986
+frozenset({'malaise'}),"frozenset({'chills', 'fatigue'})",0.08414634146341464,0.5897435897435899,5.256410256410257
+"frozenset({'chills', 'fatigue'})",frozenset({'malaise'}),0.08414634146341464,0.75,5.256410256410257
+frozenset({'malaise'}),"frozenset({'cough', 'fatigue'})",0.06341463414634146,0.4444444444444445,5.2063492063492065
+"frozenset({'cough', 'fatigue'})",frozenset({'malaise'}),0.06341463414634146,0.7428571428571428,5.2063492063492065
+frozenset({'breathlessness'}),frozenset({'chest pain'}),0.06707317073170732,0.7333333333333334,5.183908045977012
+frozenset({'chest pain'}),frozenset({'breathlessness'}),0.06707317073170732,0.4741379310344828,5.183908045977012
+frozenset({'malaise'}),"frozenset({'high fever', 'loss of appetite'})",0.06707317073170732,0.47008547008547014,5.13960113960114
+"frozenset({'chest pain', 'cough'})",frozenset({'malaise'}),0.06707317073170732,0.7333333333333334,5.13960113960114
+frozenset({'malaise'}),"frozenset({'chest pain', 'cough'})",0.06707317073170732,0.47008547008547014,5.13960113960114
+"frozenset({'high fever', 'loss of appetite'})",frozenset({'malaise'}),0.06707317073170732,0.7333333333333334,5.13960113960114
+frozenset({'malaise'}),"frozenset({'cough', 'high fever'})",0.06341463414634146,0.4444444444444445,5.13302034428795
+"frozenset({'cough', 'high fever'})",frozenset({'malaise'}),0.06341463414634146,0.7323943661971831,5.13302034428795
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'joint pain'}),0.06341463414634146,0.7123287671232877,5.123768324921894
+frozenset({'joint pain'}),"frozenset({'dark urine', 'loss of appetite'})",0.06341463414634146,0.45614035087719296,5.123768324921894
+frozenset({'dark urine'}),frozenset({'yellowish skin'}),0.10975609756097561,0.9473684210526315,5.110803324099723
+frozenset({'yellowish skin'}),frozenset({'dark urine'}),0.10975609756097561,0.5921052631578947,5.110803324099722
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.10853658536585366,0.5855263157894737,5.1077827547592385
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'yellowish skin'}),0.10853658536585366,0.9468085106382979,5.1077827547592385
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'yellowish skin'}),0.08658536585365853,0.9466666666666667,5.107017543859649
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.08658536585365853,0.4671052631578947,5.107017543859649
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'yellowish skin'}),0.06463414634146342,0.9464285714285714,5.105733082706767
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06463414634146342,0.3486842105263158,5.105733082706767
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'yellowish skin'}),0.06341463414634146,0.9454545454545454,5.100478468899522
+frozenset({'yellowish skin'}),"frozenset({'joint pain', 'abdominal pain'})",0.06341463414634146,0.34210526315789475,5.100478468899522
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'yellowish skin'}),0.08414634146341464,0.9452054794520549,5.09913482335977
+frozenset({'yellowish skin'}),"frozenset({'dark urine', 'loss of appetite'})",0.08414634146341464,0.45394736842105265,5.09913482335977
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'yellowish skin'}),0.1048780487804878,0.945054945054945,5.098322729901677
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'nausea'})",0.1048780487804878,0.5657894736842105,5.098322729901677
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'yellowish skin'}),0.1048780487804878,0.945054945054945,5.098322729901677
+frozenset({'yellowish skin'}),"frozenset({'dark urine', 'abdominal pain'})",0.1048780487804878,0.5657894736842105,5.098322729901677
+"frozenset({'vomiting', 'dark urine'})",frozenset({'yellowish skin'}),0.08292682926829269,0.9444444444444445,5.095029239766083
+"frozenset({'dark urine', 'fatigue'})",frozenset({'yellowish skin'}),0.08292682926829269,0.9444444444444445,5.095029239766083
+"frozenset({'joint pain', 'dark urine'})",frozenset({'yellowish skin'}),0.06219512195121951,0.9444444444444444,5.095029239766082
+"frozenset({'nausea', 'dark urine'})",frozenset({'yellowish skin'}),0.06219512195121951,0.9444444444444444,5.095029239766082
+"frozenset({'itching', 'abdominal pain'})",frozenset({'yellowish skin'}),0.06219512195121951,0.9444444444444444,5.095029239766082
+frozenset({'joint pain'}),"frozenset({'vomiting', 'dark urine'})",0.06219512195121951,0.4473684210526315,5.095029239766082
+"frozenset({'vomiting', 'dark urine'})",frozenset({'joint pain'}),0.06219512195121951,0.7083333333333334,5.095029239766082
+frozenset({'yellowish skin'}),"frozenset({'vomiting', 'dark urine'})",0.08292682926829269,0.4473684210526316,5.095029239766082
+frozenset({'yellowish skin'}),"frozenset({'dark urine', 'fatigue'})",0.08292682926829269,0.4473684210526316,5.095029239766082
+frozenset({'yellowish skin'}),"frozenset({'joint pain', 'dark urine'})",0.06219512195121951,0.3355263157894737,5.095029239766081
+frozenset({'yellowish skin'}),"frozenset({'itching', 'abdominal pain'})",0.06219512195121951,0.3355263157894737,5.095029239766081
+frozenset({'yellowish skin'}),"frozenset({'nausea', 'dark urine'})",0.06219512195121951,0.3355263157894737,5.095029239766081
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.06463414634146342,0.46491228070175433,5.083040935672514
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'joint pain'}),0.06463414634146342,0.7066666666666667,5.083040935672514
+frozenset({'sweating'}),frozenset({'breathlessness'}),0.06341463414634146,0.46017699115044247,5.031268436578171
+frozenset({'breathlessness'}),frozenset({'sweating'}),0.06341463414634146,0.6933333333333334,5.031268436578171
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'dark urine'}),0.06463414634146342,0.5824175824175825,5.027183342972816
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'nausea'})",0.06463414634146342,0.5578947368421052,5.027183342972816
+frozenset({'muscle pain'}),"frozenset({'chills', 'high fever'})",0.06463414634146342,0.6708860759493671,5.001150747986191
+"frozenset({'chills', 'high fever'})",frozenset({'muscle pain'}),0.06463414634146342,0.4818181818181818,5.001150747986191
+frozenset({'yellowing of eyes'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.10975609756097561,0.6617647058823529,4.9784133837021045
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.10975609756097561,0.8256880733944953,4.978413383702104
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'dark urine'}),0.06463414634146342,0.5760869565217391,4.97254004576659
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.06463414634146342,0.5578947368421052,4.97254004576659
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'dark urine'}),0.06341463414634146,0.5714285714285714,4.932330827067669
+frozenset({'dark urine'}),"frozenset({'nausea', 'abdominal pain'})",0.06341463414634146,0.5473684210526315,4.932330827067668
+"frozenset({'high fever', 'malaise'})",frozenset({'cough'}),0.06341463414634146,0.5652173913043478,4.930619796484736
+frozenset({'cough'}),"frozenset({'high fever', 'malaise'})",0.06341463414634146,0.5531914893617021,4.930619796484736
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'dark urine'}),0.06463414634146342,0.5698924731182796,4.9190718732314656
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.06463414634146342,0.5578947368421052,4.9190718732314656
+frozenset({'dark urine'}),"frozenset({'nausea', 'yellowish skin'})",0.06219512195121951,0.5368421052631579,4.891228070175439
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'dark urine'}),0.06219512195121951,0.5666666666666667,4.891228070175438
+"frozenset({'chills', 'fatigue'})",frozenset({'cough'}),0.06219512195121951,0.5543478260869565,4.835800185013876
+frozenset({'cough'}),"frozenset({'chills', 'fatigue'})",0.06219512195121951,0.5425531914893617,4.835800185013875
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'yellowing of eyes'}),0.08780487804878048,0.7912087912087912,4.770523594053006
+frozenset({'yellowing of eyes'}),"frozenset({'dark urine', 'abdominal pain'})",0.08780487804878048,0.5294117647058822,4.770523594053005
+frozenset({'dark urine'}),frozenset({'yellowing of eyes'}),0.09146341463414634,0.7894736842105262,4.760061919504643
+frozenset({'yellowing of eyes'}),frozenset({'dark urine'}),0.09146341463414634,0.551470588235294,4.760061919504643
+"frozenset({'headache', 'high fever'})",frozenset({'chills'}),0.08658536585365853,0.7717391304347825,4.758090879372343
+frozenset({'chills'}),"frozenset({'headache', 'high fever'})",0.08658536585365853,0.5338345864661653,4.758090879372343
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'yellowing of eyes'}),0.08658536585365853,0.7888888888888889,4.756535947712418
+frozenset({'yellowing of eyes'}),"frozenset({'dark urine', 'yellowish skin'})",0.08658536585365853,0.5220588235294117,4.756535947712417
+frozenset({'dark urine'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.08780487804878048,0.7578947368421052,4.744073925271192
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'dark urine'}),0.08780487804878048,0.5496183206106869,4.744073925271192
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'loss of appetite'})",0.10609756097560975,0.6397058823529411,4.725755166931637
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.10609756097560975,0.7837837837837837,4.725755166931637
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'abdominal pain'})",0.08658536585365853,0.5220588235294117,4.70426632191338
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'yellowing of eyes'}),0.08658536585365853,0.7802197802197801,4.70426632191338
+frozenset({'chills'}),"frozenset({'high fever', 'malaise'})",0.08414634146341464,0.518796992481203,4.62406015037594
+"frozenset({'high fever', 'malaise'})",frozenset({'chills'}),0.08414634146341464,0.75,4.624060150375939
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'yellowing of eyes'}),0.08414634146341464,0.7666666666666667,4.622549019607844
+frozenset({'yellowing of eyes'}),"frozenset({'yellowish skin', 'fatigue'})",0.08414634146341464,0.5073529411764706,4.622549019607843
+frozenset({'joint pain'}),"frozenset({'nausea', 'loss of appetite'})",0.08658536585365853,0.6228070175438596,4.600916706179864
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'joint pain'}),0.08658536585365853,0.6396396396396395,4.600916706179863
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06585365853658537,0.313953488372093,4.597176079734219
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'abdominal pain'}),0.06585365853658537,0.9642857142857143,4.597176079734219
+frozenset({'abdominal pain'}),"frozenset({'joint pain', 'dark urine'})",0.06341463414634146,0.3023255813953489,4.590869939707149
+"frozenset({'joint pain', 'dark urine'})",frozenset({'abdominal pain'}),0.06341463414634146,0.9629629629629629,4.590869939707149
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'abdominal pain'}),0.06341463414634146,0.9629629629629629,4.590869939707149
+"frozenset({'nausea', 'dark urine'})",frozenset({'abdominal pain'}),0.06341463414634146,0.9629629629629629,4.590869939707149
+frozenset({'abdominal pain'}),"frozenset({'nausea', 'dark urine'})",0.06341463414634146,0.3023255813953489,4.590869939707149
+frozenset({'abdominal pain'}),"frozenset({'joint pain', 'yellowish skin'})",0.06341463414634146,0.3023255813953489,4.590869939707149
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'abdominal pain'}),0.08780487804878048,0.96,4.576744186046511
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.08780487804878048,0.41860465116279066,4.576744186046511
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'abdominal pain'}),0.08536585365853659,0.9589041095890413,4.571519592226825
+frozenset({'abdominal pain'}),"frozenset({'dark urine', 'loss of appetite'})",0.08536585365853659,0.40697674418604657,4.571519592226824
+frozenset({'abdominal pain'}),"frozenset({'vomiting', 'dark urine'})",0.08414634146341464,0.40116279069767447,4.568798449612404
+"frozenset({'vomiting', 'dark urine'})",frozenset({'abdominal pain'}),0.08414634146341464,0.9583333333333335,4.568798449612404
+"frozenset({'dark urine', 'fatigue'})",frozenset({'abdominal pain'}),0.08414634146341464,0.9583333333333335,4.568798449612404
+frozenset({'abdominal pain'}),"frozenset({'dark urine', 'fatigue'})",0.08414634146341464,0.40116279069767447,4.568798449612404
+frozenset({'dark urine'}),frozenset({'abdominal pain'}),0.11097560975609756,0.9578947368421052,4.56670746634027
+frozenset({'abdominal pain'}),frozenset({'dark urine'}),0.11097560975609756,0.5290697674418605,4.56670746634027
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'abdominal pain'}),0.1048780487804878,0.9555555555555555,4.555555555555555
+frozenset({'abdominal pain'}),"frozenset({'dark urine', 'yellowish skin'})",0.1048780487804878,0.5,4.555555555555555
+frozenset({'abdominal pain'}),"frozenset({'vomiting', 'yellowish skin'})",0.12560975609756098,0.5988372093023256,4.546726959517658
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'abdominal pain'}),0.12560975609756098,0.9537037037037037,4.546726959517658
+"frozenset({'high fever', 'fatigue'})",frozenset({'phlegm'}),0.06463414634146342,0.32515337423312884,4.519080794426537
+frozenset({'phlegm'}),"frozenset({'high fever', 'fatigue'})",0.06463414634146342,0.8983050847457628,4.519080794426537
+frozenset({'swelled lymph nodes'}),"frozenset({'high fever', 'fatigue'})",0.06341463414634146,0.8965517241379312,4.510260207319654
+"frozenset({'high fever', 'fatigue'})",frozenset({'swelled lymph nodes'}),0.06341463414634146,0.31901840490797545,4.510260207319654
+frozenset({'abdominal pain'}),"frozenset({'itching', 'yellowish skin'})",0.06219512195121951,0.29651162790697677,4.502583979328166
+"frozenset({'itching', 'yellowish skin'})",frozenset({'abdominal pain'}),0.06219512195121951,0.9444444444444444,4.502583979328166
+"frozenset({'nausea', 'high fever'})",frozenset({'chills'}),0.06585365853658537,0.7297297297297298,4.4990855517171315
+frozenset({'chills'}),"frozenset({'nausea', 'high fever'})",0.06585365853658537,0.40601503759398494,4.499085551717131
+"frozenset({'cough', 'fatigue'})",frozenset({'chills'}),0.06219512195121951,0.7285714285714285,4.491944146079484
+frozenset({'chills'}),"frozenset({'cough', 'fatigue'})",0.06219512195121951,0.38345864661654133,4.491944146079484
+"frozenset({'chest pain', 'cough'})",frozenset({'chills'}),0.06585365853658537,0.7200000000000001,4.439097744360903
+frozenset({'chills'}),"frozenset({'chest pain', 'cough'})",0.06585365853658537,0.40601503759398494,4.439097744360902
+"frozenset({'vomiting', 'dark urine'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.7361111111111112,4.438316993464053
+"frozenset({'joint pain', 'vomiting'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.7361111111111112,4.438316993464053
+"frozenset({'dark urine', 'fatigue'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.7361111111111112,4.438316993464053
+frozenset({'yellowing of eyes'}),"frozenset({'vomiting', 'dark urine'})",0.06463414634146342,0.3897058823529412,4.438316993464053
+frozenset({'yellowing of eyes'}),"frozenset({'dark urine', 'fatigue'})",0.06463414634146342,0.3897058823529412,4.438316993464053
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'vomiting'})",0.06463414634146342,0.3897058823529412,4.438316993464053
+"frozenset({'cough', 'high fever'})",frozenset({'chills'}),0.06219512195121951,0.7183098591549296,4.428677327120618
+frozenset({'chills'}),"frozenset({'cough', 'high fever'})",0.06219512195121951,0.38345864661654133,4.428677327120618
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.06585365853658537,0.7297297297297298,4.399841017488077
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'loss of appetite'})",0.06585365853658537,0.39705882352941174,4.399841017488076
+frozenset({'malaise'}),"frozenset({'chills', 'high fever'})",0.08414634146341464,0.5897435897435899,4.396270396270397
+"frozenset({'chills', 'high fever'})",frozenset({'malaise'}),0.08414634146341464,0.6272727272727273,4.396270396270397
+frozenset({'yellowing of eyes'}),"frozenset({'joint pain', 'nausea'})",0.06463414634146342,0.3897058823529412,4.377518130539888
+"frozenset({'joint pain', 'nausea'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.726027397260274,4.377518130539887
+frozenset({'muscle pain'}),frozenset({'chills'}),0.06829268292682927,0.7088607594936709,4.3704197201865425
+frozenset({'chills'}),frozenset({'muscle pain'}),0.06829268292682927,0.4210526315789474,4.3704197201865425
+frozenset({'yellowing of eyes'}),frozenset({'yellowish skin'}),0.13414634146341464,0.8088235294117647,4.363390092879257
+frozenset({'yellowish skin'}),frozenset({'yellowing of eyes'}),0.13414634146341464,0.7236842105263158,4.363390092879257
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'yellowish skin'}),0.12804878048780488,0.8015267175572519,4.324025713137806
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.12804878048780488,0.6907894736842105,4.324025713137806
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'yellowish skin'}),0.10609756097560975,0.7981651376146789,4.305890873973926
+frozenset({'yellowish skin'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.10609756097560975,0.5723684210526315,4.305890873973925
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'yellowing of eyes'}),0.10975609756097561,0.703125,4.239430147058823
+frozenset({'yellowing of eyes'}),"frozenset({'vomiting', 'loss of appetite'})",0.10975609756097561,0.6617647058823529,4.239430147058823
+frozenset({'chest pain'}),"frozenset({'high fever', 'malaise'})",0.06707317073170732,0.4741379310344828,4.226011994002999
+"frozenset({'high fever', 'malaise'})",frozenset({'chest pain'}),0.06707317073170732,0.5978260869565217,4.226011994002999
+frozenset({'yellowing of eyes'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.10853658536585366,0.6544117647058824,4.225335803612784
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'yellowing of eyes'}),0.10853658536585366,0.7007874015748031,4.225335803612784
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'fatigue'})",0.06463414634146342,0.2760416666666667,4.191743827160494
+"frozenset({'joint pain', 'fatigue'})",frozenset({'loss of appetite'}),0.06463414634146342,0.9814814814814815,4.191743827160494
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'joint pain'}),0.06463414634146342,0.5824175824175825,4.189319452477347
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'nausea'})",0.06463414634146342,0.46491228070175433,4.1893194524773465
+"frozenset({'chills', 'nausea'})",frozenset({'headache'}),0.06585365853658537,0.9642857142857143,4.183673469387755
+"frozenset({'chills', 'muscle pain'})",frozenset({'headache'}),0.06585365853658537,0.9642857142857143,4.183673469387755
+"frozenset({'muscle pain', 'high fever'})",frozenset({'headache'}),0.06585365853658537,0.9642857142857143,4.183673469387755
+frozenset({'headache'}),"frozenset({'chills', 'muscle pain'})",0.06585365853658537,0.2857142857142857,4.183673469387754
+frozenset({'headache'}),"frozenset({'muscle pain', 'high fever'})",0.06585365853658537,0.2857142857142857,4.183673469387754
+frozenset({'headache'}),"frozenset({'chills', 'nausea'})",0.06585365853658537,0.2857142857142857,4.183673469387754
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'yellowish skin'}),0.1048780487804878,0.7747747747747747,4.179706021811285
+frozenset({'yellowish skin'}),"frozenset({'nausea', 'loss of appetite'})",0.1048780487804878,0.5657894736842105,4.179706021811285
+frozenset({'yellowing of eyes'}),"frozenset({'loss of appetite', 'fatigue'})",0.10853658536585366,0.6544117647058824,4.159826721386229
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'yellowing of eyes'}),0.10853658536585366,0.689922480620155,4.159826721386229
+"frozenset({'joint pain', 'nausea'})",frozenset({'loss of appetite'}),0.08658536585365853,0.9726027397260274,4.153824200913242
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'nausea'})",0.08658536585365853,0.36979166666666663,4.153824200913242
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'vomiting'})",0.08536585365853659,0.3645833333333333,4.152199074074074
+"frozenset({'joint pain', 'vomiting'})",frozenset({'loss of appetite'}),0.08536585365853659,0.9722222222222223,4.152199074074074
+frozenset({'chest pain'}),"frozenset({'chills', 'fatigue'})",0.06585365853658537,0.4655172413793104,4.149175412293854
+"frozenset({'chills', 'fatigue'})",frozenset({'chest pain'}),0.06585365853658537,0.5869565217391305,4.149175412293854
+frozenset({'nausea'}),"frozenset({'muscle pain', 'vomiting'})",0.06585365853658537,0.28272251308900526,4.139865370231862
+"frozenset({'muscle pain', 'vomiting'})",frozenset({'nausea'}),0.06585365853658537,0.9642857142857143,4.139865370231862
+frozenset({'nausea'}),"frozenset({'joint pain', 'fatigue'})",0.06341463414634146,0.27225130890052357,4.134186542563506
+"frozenset({'joint pain', 'fatigue'})",frozenset({'nausea'}),0.06341463414634146,0.9629629629629629,4.134186542563506
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.10975609756097561,0.46875,4.133064516129032
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'loss of appetite'}),0.10975609756097561,0.9677419354838709,4.133064516129032
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'joint pain'}),0.06585365853658537,0.574468085106383,4.1321388577827545
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.06585365853658537,0.47368421052631576,4.1321388577827545
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'loss of appetite'}),0.10853658536585366,0.967391304347826,4.131567028985507
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.10853658536585366,0.46354166666666663,4.131567028985507
+frozenset({'mild fever'}),frozenset({'loss of appetite'}),0.06951219512195123,0.9661016949152544,4.126059322033899
+frozenset({'loss of appetite'}),frozenset({'mild fever'}),0.06951219512195123,0.296875,4.126059322033899
+frozenset({'nausea'}),"frozenset({'joint pain', 'loss of appetite'})",0.08658536585365853,0.3717277486910994,4.119145323333805
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'nausea'}),0.08658536585365853,0.9594594594594594,4.119145323333805
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06585365853658537,0.28125,4.118303571428571
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'loss of appetite'}),0.06585365853658537,0.9642857142857143,4.118303571428571
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'abdominal pain'})",0.06463414634146342,0.2760416666666667,4.115530303030303
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'loss of appetite'}),0.06463414634146342,0.9636363636363636,4.115530303030303
+"frozenset({'joint pain', 'vomiting'})",frozenset({'nausea'}),0.08414634146341464,0.9583333333333335,4.114310645724259
+frozenset({'nausea'}),"frozenset({'joint pain', 'vomiting'})",0.08414634146341464,0.3612565445026178,4.114310645724259
+frozenset({'loss of appetite'}),frozenset({'yellowing of eyes'}),0.1597560975609756,0.6822916666666666,4.113817401960784
+frozenset({'yellowing of eyes'}),frozenset({'loss of appetite'}),0.1597560975609756,0.9632352941176471,4.113817401960784
+frozenset({'loss of appetite'}),"frozenset({'nausea', 'dark urine'})",0.06341463414634146,0.2708333333333333,4.112654320987654
+"frozenset({'joint pain', 'dark urine'})",frozenset({'loss of appetite'}),0.06341463414634146,0.9629629629629629,4.112654320987654
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'loss of appetite'}),0.06341463414634146,0.9629629629629629,4.112654320987654
+"frozenset({'nausea', 'dark urine'})",frozenset({'loss of appetite'}),0.06341463414634146,0.9629629629629629,4.112654320987654
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'yellowish skin'})",0.06341463414634146,0.2708333333333333,4.112654320987654
+frozenset({'loss of appetite'}),"frozenset({'joint pain', 'dark urine'})",0.06341463414634146,0.2708333333333333,4.112654320987654
+frozenset({'joint pain'}),"frozenset({'dark urine', 'abdominal pain'})",0.06341463414634146,0.45614035087719296,4.110275689223057
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'joint pain'}),0.06341463414634146,0.5714285714285714,4.110275689223057
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'joint pain'}),0.06341463414634146,0.5714285714285714,4.110275689223057
+frozenset({'joint pain'}),"frozenset({'nausea', 'abdominal pain'})",0.06341463414634146,0.45614035087719296,4.110275689223057
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'dark urine'}),0.08414634146341464,0.4758620689655173,4.107441016333938
+frozenset({'dark urine'}),"frozenset({'vomiting', 'abdominal pain'})",0.08414634146341464,0.7263157894736842,4.107441016333938
+frozenset({'cough'}),frozenset({'malaise'}),0.06707317073170732,0.5851063829787234,4.100745590107293
+frozenset({'malaise'}),frozenset({'cough'}),0.06707317073170732,0.47008547008547014,4.100745590107293
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'loss of appetite'}),0.08780487804878048,0.96,4.1
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.08780487804878048,0.37499999999999994,4.1
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'joint pain'}),0.06463414634146342,0.5698924731182796,4.099226561026222
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.06463414634146342,0.46491228070175433,4.099226561026221
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'yellowish skin'}),0.08414634146341464,0.7582417582417583,4.090514748409486
+frozenset({'yellowish skin'}),"frozenset({'nausea', 'abdominal pain'})",0.08414634146341464,0.45394736842105265,4.090514748409485
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'loss of appetite'}),0.10975609756097561,0.9574468085106382,4.089095744680851
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.10975609756097561,0.46875,4.089095744680851
+frozenset({'dark urine'}),frozenset({'joint pain'}),0.06585365853658537,0.5684210526315789,4.0886426592797775
+frozenset({'joint pain'}),frozenset({'dark urine'}),0.06585365853658537,0.47368421052631576,4.0886426592797775
+"frozenset({'malaise', 'fatigue'})",frozenset({'cough'}),0.06341463414634146,0.46846846846846846,4.086639831320682
+frozenset({'cough'}),"frozenset({'malaise', 'fatigue'})",0.06341463414634146,0.5531914893617021,4.086639831320682
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'nausea'})",0.10609756097560975,0.45312499999999994,4.083104395604395
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'loss of appetite'}),0.10609756097560975,0.956043956043956,4.083104395604395
+frozenset({'loss of appetite'}),"frozenset({'nausea', 'yellowish skin'})",0.1048780487804878,0.44791666666666663,4.081018518518518
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'loss of appetite'}),0.1048780487804878,0.9555555555555555,4.081018518518518
+frozenset({'loss of appetite'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.12804878048780488,0.546875,4.076704545454545
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'loss of appetite'}),0.12804878048780488,0.9545454545454545,4.076704545454545
+frozenset({'joint pain'}),"frozenset({'nausea', 'yellowish skin'})",0.06219512195121951,0.4473684210526315,4.076023391812865
+frozenset({'joint pain'}),"frozenset({'dark urine', 'yellowish skin'})",0.06219512195121951,0.4473684210526315,4.076023391812865
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'joint pain'}),0.06219512195121951,0.5666666666666667,4.076023391812865
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'joint pain'}),0.06219512195121951,0.5666666666666667,4.076023391812865
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06463414634146342,0.2774869109947644,4.06320119670905
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'nausea'}),0.06463414634146342,0.9464285714285714,4.063201196709049
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.08536585365853659,0.46052631578947373,4.060554612337295
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'yellowish skin'}),0.08536585365853659,0.7526881720430108,4.060554612337295
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'nausea'}),0.06341463414634146,0.9454545454545454,4.059019514516897
+frozenset({'nausea'}),"frozenset({'joint pain', 'abdominal pain'})",0.06341463414634146,0.27225130890052357,4.059019514516897
+frozenset({'nausea'}),"frozenset({'joint pain', 'yellowish skin'})",0.06219512195121951,0.2670157068062827,4.054682955206515
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'nausea'}),0.06219512195121951,0.9444444444444444,4.054682955206515
+"frozenset({'joint pain', 'dark urine'})",frozenset({'nausea'}),0.06219512195121951,0.9444444444444444,4.054682955206515
+frozenset({'nausea'}),"frozenset({'joint pain', 'dark urine'})",0.06219512195121951,0.2670157068062827,4.054682955206515
+frozenset({'yellowish skin'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.08414634146341464,0.45394736842105265,4.046052631578948
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'yellowish skin'}),0.08414634146341464,0.75,4.046052631578948
+frozenset({'yellowish skin'}),"frozenset({'abdominal pain', 'fatigue'})",0.08414634146341464,0.45394736842105265,4.046052631578948
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'yellowish skin'}),0.08414634146341464,0.75,4.046052631578948
+frozenset({'cough'}),"frozenset({'chills', 'high fever'})",0.06219512195121951,0.5425531914893617,4.044487427466151
+"frozenset({'chills', 'high fever'})",frozenset({'cough'}),0.06219512195121951,0.4636363636363636,4.044487427466151
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'dark urine'}),0.06341463414634146,0.46846846846846846,4.043622569938359
+frozenset({'dark urine'}),"frozenset({'nausea', 'loss of appetite'})",0.06341463414634146,0.5473684210526315,4.043622569938359
+frozenset({'malaise'}),"frozenset({'headache', 'high fever'})",0.06463414634146342,0.45299145299145305,4.0375325157933855
+frozenset({'malaise'}),"frozenset({'headache', 'fatigue'})",0.06463414634146342,0.45299145299145305,4.0375325157933855
+"frozenset({'headache', 'high fever'})",frozenset({'malaise'}),0.06463414634146342,0.5760869565217391,4.0375325157933855
+"frozenset({'headache', 'fatigue'})",frozenset({'malaise'}),0.06463414634146342,0.5760869565217391,4.0375325157933855
+frozenset({'abdominal pain'}),frozenset({'yellowish skin'}),0.1548780487804878,0.7383720930232558,3.983323133414933
+frozenset({'yellowish skin'}),frozenset({'abdominal pain'}),0.1548780487804878,0.8355263157894737,3.983323133414933
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'malaise'}),0.08902439024390243,0.5658914728682171,3.966076989332804
+frozenset({'malaise'}),"frozenset({'loss of appetite', 'fatigue'})",0.08902439024390243,0.6239316239316239,3.9660769893328034
+"frozenset({'high fever', 'vomiting'})",frozenset({'chills'}),0.08536585365853659,0.6422018348623854,3.9594398841139546
+frozenset({'chills'}),"frozenset({'high fever', 'vomiting'})",0.08536585365853659,0.5263157894736842,3.959439884113954
+frozenset({'joint pain'}),"frozenset({'vomiting', 'loss of appetite'})",0.08536585365853659,0.6140350877192983,3.9336622807017547
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'joint pain'}),0.08536585365853659,0.546875,3.933662280701754
+frozenset({'yellowing of eyes'}),"frozenset({'vomiting', 'yellowish skin'})",0.08536585365853659,0.5147058823529412,3.907952069716776
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'yellowing of eyes'}),0.08536585365853659,0.6481481481481481,3.9079520697167753
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'abdominal pain'}),0.10853658536585366,0.8090909090909091,3.857293868921776
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.10853658536585366,0.5174418604651163,3.8572938689217757
+frozenset({'malaise'}),frozenset({'chills'}),0.08902439024390243,0.6239316239316239,3.846796478375426
+frozenset({'chills'}),frozenset({'malaise'}),0.08902439024390243,0.5488721804511277,3.8467964783754254
+frozenset({'chills'}),"frozenset({'malaise', 'fatigue'})",0.08414634146341464,0.518796992481203,3.8325543588701483
+"frozenset({'malaise', 'fatigue'})",frozenset({'chills'}),0.08414634146341464,0.6216216216216216,3.8325543588701483
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'yellowish skin'}),0.12560975609756098,0.710344827586207,3.832123411978222
+frozenset({'yellowish skin'}),"frozenset({'vomiting', 'abdominal pain'})",0.12560975609756098,0.6776315789473685,3.832123411978222
+frozenset({'yellowish skin'}),"frozenset({'joint pain', 'vomiting'})",0.06219512195121951,0.3355263157894737,3.8212719298245617
+"frozenset({'joint pain', 'vomiting'})",frozenset({'yellowish skin'}),0.06219512195121951,0.7083333333333334,3.8212719298245617
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'abdominal pain'}),0.10609756097560975,0.7981651376146789,3.8052058886281204
+frozenset({'abdominal pain'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.10609756097560975,0.5058139534883721,3.8052058886281204
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'yellowish skin'}),0.06341463414634146,0.7027027027027027,3.7908961593172124
+frozenset({'yellowish skin'}),"frozenset({'joint pain', 'loss of appetite'})",0.06341463414634146,0.34210526315789475,3.7908961593172124
+"frozenset({'joint pain', 'nausea'})",frozenset({'yellowish skin'}),0.06219512195121951,0.6986301369863014,3.768925739005047
+frozenset({'yellowish skin'}),"frozenset({'joint pain', 'nausea'})",0.06219512195121951,0.3355263157894737,3.768925739005047
+"frozenset({'high fever', 'fatigue'})",frozenset({'malaise'}),0.10609756097560975,0.5337423312883435,3.7407582192858264
+frozenset({'malaise'}),"frozenset({'high fever', 'fatigue'})",0.10609756097560975,0.7435897435897436,3.7407582192858264
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'nausea'})",0.08658536585365853,0.4127906976744186,3.7196524405826734
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'abdominal pain'}),0.08658536585365853,0.7802197802197801,3.719652440582673
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'abdominal pain'}),0.08414634146341464,0.7666666666666667,3.6550387596899228
+frozenset({'abdominal pain'}),"frozenset({'yellowish skin', 'fatigue'})",0.08414634146341464,0.40116279069767447,3.6550387596899228
+frozenset({'abdominal pain'}),"frozenset({'nausea', 'yellowish skin'})",0.08414634146341464,0.40116279069767447,3.6550387596899228
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'abdominal pain'}),0.08414634146341464,0.7666666666666667,3.6550387596899228
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.08658536585365853,0.4127906976744186,3.6396599149787447
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'abdominal pain'}),0.08658536585365853,0.7634408602150536,3.6396599149787443
+"frozenset({'headache', 'nausea'})",frozenset({'chills'}),0.06585365853658537,0.5869565217391305,3.6188296829029096
+"frozenset({'headache', 'fatigue'})",frozenset({'chills'}),0.06585365853658537,0.5869565217391305,3.6188296829029096
+frozenset({'chills'}),"frozenset({'headache', 'fatigue'})",0.06585365853658537,0.40601503759398494,3.618829682902909
+frozenset({'chills'}),"frozenset({'headache', 'nausea'})",0.06585365853658537,0.40601503759398494,3.618829682902909
+frozenset({'cough'}),frozenset({'chills'}),0.06585365853658537,0.574468085106383,3.5418333066709327
+frozenset({'chills'}),frozenset({'cough'}),0.06585365853658537,0.40601503759398494,3.541833306670932
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'yellowing of eyes'}),0.06585365853658537,0.5869565217391305,3.539002557544757
+frozenset({'yellowing of eyes'}),"frozenset({'abdominal pain', 'fatigue'})",0.06585365853658537,0.39705882352941174,3.5390025575447566
+frozenset({'cough'}),"frozenset({'high fever', 'fatigue'})",0.08048780487804878,0.7021276595744681,3.532175956141496
+"frozenset({'high fever', 'fatigue'})",frozenset({'cough'}),0.08048780487804878,0.4049079754601227,3.532175956141496
+frozenset({'dark urine'}),"frozenset({'vomiting', 'loss of appetite'})",0.06341463414634146,0.5473684210526315,3.506578947368421
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'dark urine'}),0.06341463414634146,0.40625,3.506578947368421
+frozenset({'chest pain'}),frozenset({'malaise'}),0.07073170731707316,0.5,3.5042735042735047
+frozenset({'malaise'}),frozenset({'chest pain'}),0.07073170731707316,0.49572649572649574,3.5042735042735047
+frozenset({'chest pain'}),"frozenset({'malaise', 'fatigue'})",0.06707317073170732,0.4741379310344828,3.502640571606089
+"frozenset({'malaise', 'fatigue'})",frozenset({'chest pain'}),0.06707317073170732,0.4954954954954955,3.502640571606089
+frozenset({'joint pain'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.06463414634146342,0.46491228070175433,3.497505230967326
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'joint pain'}),0.06463414634146342,0.4862385321100917,3.497505230967326
+"frozenset({'headache', 'vomiting'})",frozenset({'nausea'}),0.10609756097560975,0.8130841121495327,3.490727601898517
+frozenset({'nausea'}),"frozenset({'headache', 'vomiting'})",0.10609756097560975,0.45549738219895286,3.490727601898517
+"frozenset({'chills', 'nausea'})",frozenset({'high fever'}),0.06585365853658537,0.9642857142857143,3.4833228445563247
+frozenset({'high fever'}),"frozenset({'chills', 'nausea'})",0.06585365853658537,0.23788546255506607,3.4833228445563242
+frozenset({'dark urine'}),"frozenset({'loss of appetite', 'fatigue'})",0.06341463414634146,0.5473684210526315,3.479396164830681
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'dark urine'}),0.06341463414634146,0.40310077519379844,3.479396164830681
+"frozenset({'chills', 'high fever'})",frozenset({'chest pain'}),0.06585365853658537,0.4909090909090909,3.4702194357366776
+frozenset({'chest pain'}),"frozenset({'chills', 'high fever'})",0.06585365853658537,0.4655172413793104,3.470219435736677
+frozenset({'dark urine'}),"frozenset({'vomiting', 'fatigue'})",0.06219512195121951,0.5368421052631579,3.4662246166597597
+"frozenset({'vomiting', 'fatigue'})",frozenset({'dark urine'}),0.06219512195121951,0.4015748031496063,3.4662246166597597
+frozenset({'high fever'}),"frozenset({'chills', 'headache'})",0.08658536585365853,0.3127753303964757,3.4658887962852716
+"frozenset({'chills', 'headache'})",frozenset({'high fever'}),0.08658536585365853,0.9594594594594594,3.4658887962852716
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.06463414634146342,0.46491228070175433,3.465709728867623
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'joint pain'}),0.06463414634146342,0.4818181818181818,3.465709728867623
+"frozenset({'chills', 'vomiting'})",frozenset({'high fever'}),0.08536585365853659,0.9589041095890413,3.463882686621206
+frozenset({'high fever'}),"frozenset({'chills', 'vomiting'})",0.08536585365853659,0.30837004405286345,3.463882686621206
+frozenset({'high fever'}),"frozenset({'chills', 'fatigue'})",0.1073170731707317,0.3876651982378854,3.455276766902892
+"frozenset({'chills', 'fatigue'})",frozenset({'high fever'}),0.1073170731707317,0.9565217391304347,3.4552767669028914
+"frozenset({'joint pain', 'vomiting'})",frozenset({'abdominal pain'}),0.06341463414634146,0.7222222222222223,3.4431524547803622
+frozenset({'abdominal pain'}),"frozenset({'joint pain', 'vomiting'})",0.06341463414634146,0.3023255813953489,3.4431524547803622
+frozenset({'chest pain'}),frozenset({'sweating'}),0.06707317073170732,0.4741379310344828,3.440646933170583
+frozenset({'sweating'}),frozenset({'chest pain'}),0.06707317073170732,0.48672566371681414,3.440646933170583
+frozenset({'muscle pain'}),"frozenset({'nausea', 'vomiting'})",0.06585365853658537,0.6835443037974683,3.4386891356682456
+"frozenset({'nausea', 'vomiting'})",frozenset({'muscle pain'}),0.06585365853658537,0.3312883435582822,3.438689135668245
+frozenset({'joint pain'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.06341463414634146,0.45614035087719296,3.4315145662320936
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'joint pain'}),0.06341463414634146,0.4770642201834862,3.4315145662320936
+frozenset({'phlegm'}),frozenset({'high fever'}),0.06829268292682927,0.9491525423728815,3.4286567609945497
+frozenset({'high fever'}),"frozenset({'chest pain', 'phlegm'})",0.06829268292682927,0.24669603524229075,3.4286567609945497
+"frozenset({'chest pain', 'phlegm'})",frozenset({'high fever'}),0.06829268292682927,0.9491525423728815,3.4286567609945497
+frozenset({'high fever'}),frozenset({'phlegm'}),0.06829268292682927,0.24669603524229075,3.4286567609945497
+frozenset({'high fever'}),"frozenset({'chest pain', 'malaise'})",0.06707317073170732,0.2422907488986784,3.425489898222695
+"frozenset({'chest pain', 'malaise'})",frozenset({'high fever'}),0.06707317073170732,0.9482758620689656,3.425489898222695
+frozenset({'swelled lymph nodes'}),frozenset({'high fever'}),0.06707317073170732,0.9482758620689656,3.425489898222695
+frozenset({'high fever'}),frozenset({'swelled lymph nodes'}),0.06707317073170732,0.2422907488986784,3.425489898222695
+"frozenset({'headache', 'muscle pain'})",frozenset({'high fever'}),0.06585365853658537,0.9473684210526315,3.422211917458845
+frozenset({'high fever'}),"frozenset({'headache', 'muscle pain'})",0.06585365853658537,0.23788546255506607,3.422211917458845
+frozenset({'high fever'}),"frozenset({'phlegm', 'malaise'})",0.06585365853658537,0.23788546255506607,3.422211917458845
+"frozenset({'phlegm', 'malaise'})",frozenset({'high fever'}),0.06585365853658537,0.9473684210526315,3.422211917458845
+"frozenset({'swelled lymph nodes', 'malaise'})",frozenset({'high fever'}),0.06585365853658537,0.9473684210526315,3.422211917458845
+frozenset({'high fever'}),"frozenset({'swelled lymph nodes', 'malaise'})",0.06585365853658537,0.23788546255506607,3.422211917458845
+"frozenset({'chest pain', 'chills'})",frozenset({'high fever'}),0.06585365853658537,0.9473684210526315,3.422211917458845
+frozenset({'high fever'}),"frozenset({'chest pain', 'chills'})",0.06585365853658537,0.23788546255506607,3.422211917458845
+"frozenset({'chest pain', 'fatigue'})",frozenset({'high fever'}),0.06585365853658537,0.9473684210526315,3.422211917458845
+frozenset({'high fever'}),"frozenset({'chest pain', 'fatigue'})",0.06585365853658537,0.23788546255506607,3.422211917458845
+frozenset({'high fever'}),"frozenset({'headache', 'malaise'})",0.06463414634146342,0.23348017621145373,3.4188168659534295
+"frozenset({'headache', 'malaise'})",frozenset({'high fever'}),0.06463414634146342,0.9464285714285714,3.4188168659534295
+frozenset({'high fever'}),"frozenset({'chills', 'phlegm'})",0.06463414634146342,0.23348017621145373,3.4188168659534295
+"frozenset({'chills', 'phlegm'})",frozenset({'high fever'}),0.06463414634146342,0.9464285714285714,3.4188168659534295
+frozenset({'high fever'}),"frozenset({'chills', 'muscle pain'})",0.06463414634146342,0.23348017621145373,3.4188168659534295
+"frozenset({'cough', 'phlegm'})",frozenset({'high fever'}),0.06463414634146342,0.9464285714285714,3.4188168659534295
+frozenset({'high fever'}),"frozenset({'phlegm', 'fatigue'})",0.06463414634146342,0.23348017621145373,3.4188168659534295
+"frozenset({'phlegm', 'fatigue'})",frozenset({'high fever'}),0.06463414634146342,0.9464285714285714,3.4188168659534295
+"frozenset({'chills', 'muscle pain'})",frozenset({'high fever'}),0.06463414634146342,0.9464285714285714,3.4188168659534295
+frozenset({'high fever'}),"frozenset({'cough', 'phlegm'})",0.06463414634146342,0.23348017621145373,3.4188168659534295
+"frozenset({'cough', 'malaise'})",frozenset({'high fever'}),0.06341463414634146,0.9454545454545454,3.415298358029635
+"frozenset({'swelled lymph nodes', 'fatigue'})",frozenset({'high fever'}),0.06341463414634146,0.9454545454545454,3.415298358029635
+frozenset({'high fever'}),"frozenset({'cough', 'malaise'})",0.06341463414634146,0.22907488986784139,3.415298358029635
+frozenset({'high fever'}),"frozenset({'swelled lymph nodes', 'fatigue'})",0.06341463414634146,0.22907488986784139,3.415298358029635
+frozenset({'abdominal pain'}),"frozenset({'joint pain', 'loss of appetite'})",0.06463414634146342,0.308139534883721,3.4145191703331244
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'abdominal pain'}),0.06463414634146342,0.7162162162162162,3.414519170333124
+"frozenset({'chills', 'malaise'})",frozenset({'high fever'}),0.08414634146341464,0.9452054794520549,3.414398648240903
+frozenset({'high fever'}),"frozenset({'chills', 'malaise'})",0.08414634146341464,0.3039647577092511,3.4143986482409026
+frozenset({'high fever'}),"frozenset({'chills', 'sweating'})",0.06219512195121951,0.22466960352422904,3.411649534997552
+frozenset({'high fever'}),"frozenset({'chills', 'cough'})",0.06219512195121951,0.22466960352422904,3.411649534997552
+"frozenset({'chills', 'sweating'})",frozenset({'high fever'}),0.06219512195121951,0.9444444444444444,3.411649534997552
+"frozenset({'chills', 'cough'})",frozenset({'high fever'}),0.06219512195121951,0.9444444444444444,3.411649534997552
+"frozenset({'breathlessness', 'fatigue'})",frozenset({'high fever'}),0.06097560975609756,0.9433962264150942,3.407863020530296
+frozenset({'high fever'}),"frozenset({'breathlessness', 'fatigue'})",0.06097560975609756,0.2202643171806167,3.407863020530296
+"frozenset({'breathlessness', 'cough'})",frozenset({'high fever'}),0.06097560975609756,0.9433962264150942,3.407863020530296
+frozenset({'high fever'}),"frozenset({'breathlessness', 'cough'})",0.06097560975609756,0.2202643171806167,3.407863020530296
+"frozenset({'cough', 'fatigue'})",frozenset({'high fever'}),0.08048780487804878,0.9428571428571428,3.4059156702328504
+frozenset({'high fever'}),"frozenset({'cough', 'fatigue'})",0.08048780487804878,0.2907488986784141,3.4059156702328504
+"frozenset({'nausea', 'fatigue'})",frozenset({'joint pain'}),0.06341463414634146,0.4727272727272727,3.4003189792663475
+frozenset({'joint pain'}),"frozenset({'nausea', 'fatigue'})",0.06341463414634146,0.45614035087719296,3.400318979266347
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'joint pain'}),0.06219512195121951,0.4722222222222222,3.3966861598440543
+frozenset({'joint pain'}),"frozenset({'vomiting', 'yellowish skin'})",0.06219512195121951,0.4473684210526315,3.396686159844054
+"frozenset({'joint pain', 'nausea'})",frozenset({'abdominal pain'}),0.06341463414634146,0.7123287671232877,3.3959859827970695
+frozenset({'abdominal pain'}),"frozenset({'joint pain', 'nausea'})",0.06341463414634146,0.3023255813953489,3.3959859827970695
+frozenset({'nausea'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.1048780487804878,0.450261780104712,3.387290455833613
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'nausea'}),0.1048780487804878,0.7889908256880733,3.387290455833613
+"frozenset({'chills', 'high fever'})",frozenset({'sweating'}),0.06219512195121951,0.4636363636363636,3.364440868865647
+frozenset({'sweating'}),"frozenset({'chills', 'high fever'})",0.06219512195121951,0.45132743362831856,3.364440868865647
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.1048780487804878,0.450261780104712,3.3564969062351255
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'nausea'}),0.1048780487804878,0.7818181818181817,3.3564969062351255
+"frozenset({'high fever', 'fatigue'})",frozenset({'breathlessness'}),0.06097560975609756,0.3067484662576687,3.353783231083845
+frozenset({'breathlessness'}),"frozenset({'high fever', 'fatigue'})",0.06097560975609756,0.6666666666666666,3.353783231083844
+"frozenset({'high fever', 'fatigue'})",frozenset({'chills'}),0.1073170731707317,0.5398773006134969,3.3285668158125374
+frozenset({'chills'}),"frozenset({'high fever', 'fatigue'})",0.1073170731707317,0.6616541353383458,3.328566815812537
+frozenset({'yellowing of eyes'}),frozenset({'abdominal pain'}),0.11463414634146342,0.6911764705882353,3.2951436388508895
+frozenset({'abdominal pain'}),frozenset({'yellowing of eyes'}),0.11463414634146342,0.5465116279069768,3.2951436388508895
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'loss of appetite'}),0.08536585365853659,0.7692307692307693,3.28525641025641
+frozenset({'loss of appetite'}),"frozenset({'dark urine', 'abdominal pain'})",0.08536585365853659,0.3645833333333333,3.28525641025641
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'loss of appetite'}),0.08536585365853659,0.7692307692307693,3.28525641025641
+frozenset({'loss of appetite'}),"frozenset({'nausea', 'abdominal pain'})",0.08536585365853659,0.3645833333333333,3.28525641025641
+frozenset({'dark urine'}),frozenset({'loss of appetite'}),0.08902439024390243,0.7684210526315789,3.2817982456140347
+frozenset({'loss of appetite'}),frozenset({'dark urine'}),0.08902439024390243,0.3802083333333333,3.2817982456140347
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'abdominal pain'}),0.10975609756097561,0.6870229007633588,3.2753417361974084
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.10975609756097561,0.5232558139534884,3.2753417361974084
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'loss of appetite'}),0.08414634146341464,0.7666666666666667,3.274305555555556
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'loss of appetite'}),0.08414634146341464,0.7666666666666667,3.274305555555556
+frozenset({'loss of appetite'}),"frozenset({'yellowish skin', 'fatigue'})",0.08414634146341464,0.359375,3.2743055555555554
+frozenset({'loss of appetite'}),"frozenset({'dark urine', 'yellowish skin'})",0.08414634146341464,0.359375,3.2743055555555554
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'nausea'}),0.08658536585365853,0.7553191489361701,3.2427314247521437
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.08658536585365853,0.3717277486910994,3.2427314247521437
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.08536585365853659,0.36649214659685864,3.2314361312841298
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'nausea'}),0.08536585365853659,0.7526881720430108,3.2314361312841298
+frozenset({'abdominal pain'}),"frozenset({'vomiting', 'loss of appetite'})",0.1048780487804878,0.5,3.203125
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'abdominal pain'}),0.1048780487804878,0.671875,3.203125
+"frozenset({'nausea', 'high fever'})",frozenset({'headache'}),0.06585365853658537,0.7297297297297298,3.1660231660231664
+frozenset({'headache'}),"frozenset({'nausea', 'high fever'})",0.06585365853658537,0.2857142857142857,3.166023166023166
+frozenset({'headache'}),"frozenset({'chills', 'vomiting'})",0.06463414634146342,0.2804232804232804,3.149960136261506
+"frozenset({'chills', 'vomiting'})",frozenset({'headache'}),0.06463414634146342,0.726027397260274,3.149960136261506
+frozenset({'nausea'}),"frozenset({'chills', 'headache'})",0.06585365853658537,0.28272251308900526,3.1328710909862747
+"frozenset({'chills', 'headache'})",frozenset({'nausea'}),0.06585365853658537,0.7297297297297298,3.1328710909862743
+frozenset({'muscle pain'}),frozenset({'headache'}),0.06951219512195123,0.7215189873417722,3.130399839260599
+frozenset({'headache'}),frozenset({'muscle pain'}),0.06951219512195123,0.3015873015873016,3.130399839260599
+frozenset({'nausea'}),"frozenset({'chills', 'vomiting'})",0.06463414634146342,0.2774869109947644,3.1169762604891345
+"frozenset({'chills', 'vomiting'})",frozenset({'nausea'}),0.06463414634146342,0.726027397260274,3.116976260489134
+frozenset({'nausea'}),frozenset({'muscle pain'}),0.06951219512195123,0.2984293193717278,3.097620783352111
+frozenset({'muscle pain'}),frozenset({'nausea'}),0.06951219512195123,0.7215189873417722,3.0976207833521108
+"frozenset({'dark urine', 'fatigue'})",frozenset({'loss of appetite'}),0.06341463414634146,0.7222222222222223,3.084490740740741
+frozenset({'loss of appetite'}),"frozenset({'dark urine', 'fatigue'})",0.06341463414634146,0.2708333333333333,3.084490740740741
+"frozenset({'vomiting', 'dark urine'})",frozenset({'loss of appetite'}),0.06341463414634146,0.7222222222222223,3.084490740740741
+frozenset({'loss of appetite'}),"frozenset({'vomiting', 'dark urine'})",0.06341463414634146,0.2708333333333333,3.084490740740741
+frozenset({'nausea'}),"frozenset({'vomiting', 'diarrhoea'})",0.06097560975609756,0.2617801047120419,3.0665669409124905
+"frozenset({'vomiting', 'diarrhoea'})",frozenset({'nausea'}),0.06097560975609756,0.7142857142857142,3.06656694091249
+frozenset({'loss of appetite'}),frozenset({'yellowish skin'}),0.1329268292682927,0.5677083333333334,3.062637061403509
+frozenset({'yellowish skin'}),frozenset({'loss of appetite'}),0.1329268292682927,0.7171052631578948,3.062637061403509
+frozenset({'nausea'}),"frozenset({'dark urine', 'loss of appetite'})",0.06341463414634146,0.27225130890052357,3.058165387649717
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'nausea'}),0.06341463414634146,0.7123287671232877,3.058165387649717
+"frozenset({'headache', 'vomiting'})",frozenset({'chills'}),0.06463414634146342,0.4953271028037383,3.053896423301244
+frozenset({'chills'}),"frozenset({'headache', 'vomiting'})",0.06463414634146342,0.39849624060150374,3.0538964233012433
+"frozenset({'nausea', 'vomiting'})",frozenset({'joint pain'}),0.08414634146341464,0.4233128834355828,3.0448821440103324
+frozenset({'joint pain'}),"frozenset({'nausea', 'vomiting'})",0.08414634146341464,0.6052631578947368,3.0448821440103324
+frozenset({'nausea'}),"frozenset({'vomiting', 'dark urine'})",0.06219512195121951,0.2670157068062827,3.0410122164048867
+"frozenset({'vomiting', 'dark urine'})",frozenset({'nausea'}),0.06219512195121951,0.7083333333333334,3.0410122164048867
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.06463414634146342,0.2774869109947644,3.0338568935427577
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'nausea'}),0.06463414634146342,0.7066666666666667,3.0338568935427572
+frozenset({'chills'}),frozenset({'chest pain'}),0.06951219512195123,0.4285714285714286,3.029556650246306
+frozenset({'chest pain'}),frozenset({'chills'}),0.06951219512195123,0.4913793103448277,3.029556650246306
+frozenset({'abdominal pain'}),"frozenset({'nausea', 'loss of appetite'})",0.08536585365853659,0.40697674418604657,3.0064948669599834
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'abdominal pain'}),0.08536585365853659,0.6306306306306306,3.0064948669599834
+frozenset({'high fever'}),frozenset({'chills'}),0.13414634146341464,0.4845814977973568,2.9876453247656585
+frozenset({'chills'}),frozenset({'high fever'}),0.13414634146341464,0.8270676691729324,2.9876453247656585
+frozenset({'joint pain'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.06585365853658537,0.47368421052631576,2.9650462032944955
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'joint pain'}),0.06585365853658537,0.4122137404580153,2.9650462032944955
+frozenset({'joint pain'}),frozenset({'yellowing of eyes'}),0.06829268292682927,0.49122807017543857,2.961816305469556
+frozenset({'yellowing of eyes'}),frozenset({'joint pain'}),0.06829268292682927,0.411764705882353,2.961816305469556
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'joint pain'}),0.06463414634146342,0.4108527131782946,2.955256357949136
+frozenset({'joint pain'}),"frozenset({'loss of appetite', 'fatigue'})",0.06463414634146342,0.46491228070175433,2.955256357949136
+frozenset({'yellowing of eyes'}),"frozenset({'vomiting', 'abdominal pain'})",0.08658536585365853,0.5220588235294117,2.9523326572008113
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'yellowing of eyes'}),0.08658536585365853,0.4896551724137931,2.9523326572008113
+frozenset({'nausea'}),"frozenset({'vomiting', 'loss of appetite'})",0.1073170731707317,0.4607329842931937,2.951570680628272
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'nausea'}),0.1073170731707317,0.6875,2.951570680628272
+frozenset({'sweating'}),frozenset({'chills'}),0.06585365853658537,0.47787610619469023,2.946303812628917
+frozenset({'chills'}),frozenset({'sweating'}),0.06585365853658537,0.40601503759398494,2.946303812628917
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'joint pain'}),0.06341463414634146,0.4094488188976378,2.9451581710180963
+frozenset({'joint pain'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.06341463414634146,0.45614035087719296,2.9451581710180963
+"frozenset({'vomiting', 'fatigue'})",frozenset({'nausea'}),0.10609756097560975,0.6850393700787402,2.9410067197097742
+frozenset({'nausea'}),"frozenset({'vomiting', 'fatigue'})",0.10609756097560975,0.45549738219895286,2.9410067197097742
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'loss of appetite'}),0.10609756097560975,0.6850393700787402,2.9256889763779528
+frozenset({'loss of appetite'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.10609756097560975,0.45312499999999994,2.9256889763779523
+frozenset({'itching'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.06219512195121951,0.45132743362831856,2.9140826423245767
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'itching'}),0.06219512195121951,0.4015748031496063,2.9140826423245767
+frozenset({'yellowish skin'}),"frozenset({'vomiting', 'loss of appetite'})",0.08414634146341464,0.45394736842105265,2.9081003289473686
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'yellowish skin'}),0.08414634146341464,0.5390625,2.9081003289473686
+frozenset({'joint pain'}),"frozenset({'vomiting', 'fatigue'})",0.06219512195121951,0.4473684210526315,2.8885205138831327
+"frozenset({'vomiting', 'fatigue'})",frozenset({'joint pain'}),0.06219512195121951,0.4015748031496063,2.8885205138831327
+frozenset({'yellowish skin'}),"frozenset({'loss of appetite', 'fatigue'})",0.08414634146341464,0.45394736842105265,2.885556915544676
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'yellowish skin'}),0.08414634146341464,0.5348837209302326,2.885556915544676
+frozenset({'nausea'}),frozenset({'yellowing of eyes'}),0.11097560975609756,0.47643979057591623,2.872651678472436
+frozenset({'yellowing of eyes'}),frozenset({'nausea'}),0.11097560975609756,0.6691176470588235,2.872651678472436
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'nausea'}),0.10609756097560975,0.6641221374045801,2.851204987810239
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.10609756097560975,0.45549738219895286,2.851204987810239
+frozenset({'malaise'}),frozenset({'high fever'}),0.11219512195121951,0.7863247863247864,2.840468391129184
+frozenset({'high fever'}),frozenset({'malaise'}),0.11219512195121951,0.4052863436123348,2.840468391129184
+frozenset({'high fever'}),"frozenset({'malaise', 'fatigue'})",0.10609756097560975,0.3832599118942731,2.8312894392189545
+"frozenset({'malaise', 'fatigue'})",frozenset({'high fever'}),0.10609756097560975,0.7837837837837837,2.831289439218954
+frozenset({'skin rash'}),frozenset({'itching'}),0.06219512195121951,0.3893129770992366,2.8251030196581772
+frozenset({'itching'}),frozenset({'skin rash'}),0.06219512195121951,0.45132743362831856,2.8251030196581772
+frozenset({'malaise'}),frozenset({'loss of appetite'}),0.09390243902439024,0.6581196581196582,2.8107193732193734
+frozenset({'loss of appetite'}),frozenset({'malaise'}),0.09390243902439024,0.40104166666666663,2.8107193732193734
+"frozenset({'malaise', 'fatigue'})",frozenset({'loss of appetite'}),0.08902439024390243,0.6576576576576576,2.808746246246246
+frozenset({'loss of appetite'}),"frozenset({'malaise', 'fatigue'})",0.08902439024390243,0.3802083333333333,2.808746246246246
+frozenset({'headache'}),"frozenset({'chills', 'high fever'})",0.08658536585365853,0.37566137566137564,2.8003848003848
+"frozenset({'chills', 'high fever'})",frozenset({'headache'}),0.08658536585365853,0.6454545454545454,2.8003848003848
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'abdominal pain'}),0.06585365853658537,0.5869565217391305,2.7982810920121337
+frozenset({'abdominal pain'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.06585365853658537,0.313953488372093,2.7982810920121333
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'fatigue'})",0.06219512195121951,0.375,2.7954545454545454
+"frozenset({'nausea', 'fatigue'})",frozenset({'yellowing of eyes'}),0.06219512195121951,0.4636363636363636,2.7954545454545454
+"frozenset({'headache', 'fatigue'})",frozenset({'high fever'}),0.08658536585365853,0.7717391304347825,2.7877801187511966
+frozenset({'high fever'}),"frozenset({'headache', 'fatigue'})",0.08658536585365853,0.3127753303964757,2.7877801187511966
+frozenset({'loss of appetite'}),frozenset({'joint pain'}),0.09024390243902439,0.38541666666666663,2.772295321637426
+frozenset({'joint pain'}),frozenset({'loss of appetite'}),0.09024390243902439,0.6491228070175438,2.772295321637426
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'nausea'}),0.08536585365853659,0.6422018348623854,2.757096882655267
+"frozenset({'vomiting', 'high fever'})",frozenset({'nausea'}),0.08536585365853659,0.6422018348623854,2.757096882655267
+frozenset({'nausea'}),"frozenset({'vomiting', 'high fever'})",0.08536585365853659,0.36649214659685864,2.757096882655267
+frozenset({'nausea'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.08536585365853659,0.36649214659685864,2.757096882655267
+frozenset({'loss of appetite'}),"frozenset({'nausea', 'fatigue'})",0.08658536585365853,0.36979166666666663,2.7566287878787876
+"frozenset({'nausea', 'fatigue'})",frozenset({'loss of appetite'}),0.08658536585365853,0.6454545454545454,2.7566287878787876
+frozenset({'joint pain'}),frozenset({'nausea'}),0.08902439024390243,0.6403508771929823,2.7491503628180394
+frozenset({'nausea'}),frozenset({'joint pain'}),0.08902439024390243,0.3821989528795811,2.7491503628180394
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'loss of appetite'}),0.08414634146341464,0.638888888888889,2.7285879629629632
+frozenset({'loss of appetite'}),"frozenset({'vomiting', 'yellowish skin'})",0.08414634146341464,0.359375,2.728587962962963
+frozenset({'cough'}),frozenset({'high fever'}),0.08658536585365853,0.7553191489361701,2.728465648139469
+frozenset({'high fever'}),frozenset({'cough'}),0.08658536585365853,0.3127753303964757,2.7284656481394687
+frozenset({'abdominal pain'}),frozenset({'loss of appetite'}),0.1329268292682927,0.6337209302325582,2.706516472868217
+frozenset({'loss of appetite'}),frozenset({'abdominal pain'}),0.1329268292682927,0.5677083333333334,2.706516472868217
+frozenset({'nausea'}),"frozenset({'vomiting', 'yellowish skin'})",0.08292682926829269,0.35602094240837695,2.7031219701376767
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'nausea'}),0.08292682926829269,0.6296296296296297,2.7031219701376767
+frozenset({'dark urine'}),"frozenset({'nausea', 'vomiting'})",0.06219512195121951,0.5368421052631579,2.7006780755569904
+"frozenset({'nausea', 'vomiting'})",frozenset({'dark urine'}),0.06219512195121951,0.31288343558282206,2.7006780755569904
+"frozenset({'nausea', 'vomiting'})",frozenset({'diarrhoea'}),0.06097560975609756,0.3067484662576687,2.6758908758647695
+frozenset({'diarrhoea'}),"frozenset({'nausea', 'vomiting'})",0.06097560975609756,0.5319148936170213,2.6758908758647695
+"frozenset({'vomiting', 'fatigue'})",frozenset({'abdominal pain'}),0.08536585365853659,0.5511811023622047,2.6277238600988833
+frozenset({'abdominal pain'}),"frozenset({'vomiting', 'fatigue'})",0.08536585365853659,0.40697674418604657,2.6277238600988833
+frozenset({'high fever'}),frozenset({'breathlessness'}),0.06585365853658537,0.23788546255506607,2.6008810572687224
+frozenset({'high fever'}),"frozenset({'chest pain', 'cough'})",0.06585365853658537,0.23788546255506607,2.6008810572687224
+"frozenset({'chest pain', 'cough'})",frozenset({'high fever'}),0.06585365853658537,0.7200000000000001,2.6008810572687224
+frozenset({'breathlessness'}),frozenset({'high fever'}),0.06585365853658537,0.7200000000000001,2.6008810572687224
+frozenset({'yellowing of eyes'}),"frozenset({'nausea', 'vomiting'})",0.08536585365853659,0.5147058823529412,2.5893179357632627
+"frozenset({'nausea', 'vomiting'})",frozenset({'yellowing of eyes'}),0.08536585365853659,0.4294478527607362,2.5893179357632623
+"frozenset({'loss of appetite', 'malaise'})",frozenset({'high fever'}),0.06707317073170732,0.7142857142857143,2.580239144115796
+frozenset({'high fever'}),"frozenset({'loss of appetite', 'malaise'})",0.06707317073170732,0.2422907488986784,2.580239144115796
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'joint pain'}),0.06341463414634146,0.35862068965517246,2.579552329098609
+frozenset({'joint pain'}),"frozenset({'vomiting', 'abdominal pain'})",0.06341463414634146,0.45614035087719296,2.5795523290986084
+frozenset({'itching'}),frozenset({'yellowish skin'}),0.06585365853658537,0.47787610619469023,2.5780158360503025
+frozenset({'yellowish skin'}),frozenset({'itching'}),0.06585365853658537,0.35526315789473684,2.5780158360503025
+"frozenset({'vomiting', 'fatigue'})",frozenset({'chills'}),0.06463414634146342,0.4173228346456693,2.572967852702623
+frozenset({'chills'}),"frozenset({'vomiting', 'fatigue'})",0.06463414634146342,0.39849624060150374,2.5729678527026225
+frozenset({'muscle pain'}),frozenset({'high fever'}),0.06829268292682927,0.7088607594936709,2.5606423911225114
+frozenset({'high fever'}),frozenset({'muscle pain'}),0.06829268292682927,0.24669603524229075,2.5606423911225114
+frozenset({'yellowish skin'}),frozenset({'joint pain'}),0.06585365853658537,0.35526315789473684,2.5554016620498614
+frozenset({'joint pain'}),frozenset({'yellowish skin'}),0.06585365853658537,0.47368421052631576,2.5554016620498614
+frozenset({'loss of appetite'}),"frozenset({'high fever', 'malaise'})",0.06707317073170732,0.2864583333333333,2.5532155797101446
+"frozenset({'high fever', 'malaise'})",frozenset({'loss of appetite'}),0.06707317073170732,0.5978260869565217,2.5532155797101446
+"frozenset({'chills', 'fatigue'})",frozenset({'headache'}),0.06585365853658537,0.5869565217391305,2.546583850931677
+frozenset({'headache'}),"frozenset({'chills', 'fatigue'})",0.06585365853658537,0.2857142857142857,2.5465838509316767
+frozenset({'nausea'}),"frozenset({'vomiting', 'abdominal pain'})",0.1048780487804878,0.450261780104712,2.546307997833544
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'nausea'}),0.1048780487804878,0.593103448275862,2.546307997833544
+frozenset({'nausea'}),frozenset({'yellowish skin'}),0.10975609756097561,0.4712041884816754,2.5420225957564067
+frozenset({'yellowish skin'}),frozenset({'nausea'}),0.10975609756097561,0.5921052631578947,2.542022595756406
+frozenset({'loss of appetite'}),"frozenset({'vomiting', 'abdominal pain'})",0.1048780487804878,0.44791666666666663,2.5330459770114944
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'loss of appetite'}),0.1048780487804878,0.593103448275862,2.533045977011494
+frozenset({'nausea'}),"frozenset({'headache', 'fatigue'})",0.06585365853658537,0.28272251308900526,2.5199180514454818
+"frozenset({'headache', 'fatigue'})",frozenset({'nausea'}),0.06585365853658537,0.5869565217391305,2.5199180514454818
+frozenset({'nausea'}),"frozenset({'headache', 'high fever'})",0.06585365853658537,0.28272251308900526,2.5199180514454818
+"frozenset({'headache', 'high fever'})",frozenset({'nausea'}),0.06585365853658537,0.5869565217391305,2.5199180514454818
+"frozenset({'vomiting', 'fatigue'})",frozenset({'yellowing of eyes'}),0.06463414634146342,0.4173228346456693,2.516211208893006
+frozenset({'yellowing of eyes'}),"frozenset({'vomiting', 'fatigue'})",0.06463414634146342,0.3897058823529412,2.516211208893006
+"frozenset({'nausea', 'vomiting'})",frozenset({'abdominal pain'}),0.1048780487804878,0.5276073619631901,2.515337423312883
+frozenset({'abdominal pain'}),"frozenset({'nausea', 'vomiting'})",0.1048780487804878,0.5,2.515337423312883
+"frozenset({'nausea', 'fatigue'})",frozenset({'yellowish skin'}),0.06219512195121951,0.4636363636363636,2.501196172248804
+frozenset({'yellowish skin'}),"frozenset({'nausea', 'fatigue'})",0.06219512195121951,0.3355263157894737,2.5011961722488034
+"frozenset({'high fever', 'malaise'})",frozenset({'headache'}),0.06463414634146342,0.5760869565217391,2.4994248907292387
+frozenset({'headache'}),"frozenset({'high fever', 'malaise'})",0.06463414634146342,0.2804232804232804,2.4994248907292382
+frozenset({'loss of appetite'}),frozenset({'nausea'}),0.1353658536585366,0.578125,2.482002617801047
+frozenset({'nausea'}),frozenset({'loss of appetite'}),0.1353658536585366,0.581151832460733,2.482002617801047
+frozenset({'high fever'}),"frozenset({'vomiting', 'fatigue'})",0.10609756097560975,0.3832599118942731,2.4745915571126296
+"frozenset({'vomiting', 'fatigue'})",frozenset({'high fever'}),0.10609756097560975,0.6850393700787402,2.4745915571126296
+frozenset({'nausea'}),"frozenset({'abdominal pain', 'fatigue'})",0.06463414634146342,0.2774869109947644,2.4732529023446395
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'nausea'}),0.06463414634146342,0.5760869565217391,2.473252902344639
+frozenset({'loss of appetite'}),"frozenset({'abdominal pain', 'fatigue'})",0.06463414634146342,0.2760416666666667,2.4603713768115942
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'loss of appetite'}),0.06463414634146342,0.5760869565217391,2.4603713768115942
+"frozenset({'high fever', 'abdominal pain'})",frozenset({'fatigue'}),0.06585365853658537,0.9642857142857143,2.455634427684117
+frozenset({'fatigue'}),"frozenset({'high fever', 'abdominal pain'})",0.06585365853658537,0.16770186335403728,2.455634427684117
+frozenset({'nausea'}),"frozenset({'dark urine', 'abdominal pain'})",0.06341463414634146,0.27225130890052357,2.4532535527299926
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'nausea'}),0.06341463414634146,0.5714285714285714,2.453253552729992
+frozenset({'nausea'}),frozenset({'dark urine'}),0.06585365853658537,0.28272251308900526,2.4403416919261507
+frozenset({'dark urine'}),frozenset({'nausea'}),0.06585365853658537,0.5684210526315789,2.4403416919261502
+"frozenset({'nausea', 'muscle pain'})",frozenset({'vomiting'}),0.06585365853658537,0.9473684210526315,2.435241709288896
+frozenset({'vomiting'}),"frozenset({'nausea', 'muscle pain'})",0.06585365853658537,0.16927899686520376,2.435241709288896
+frozenset({'vomiting'}),"frozenset({'chills', 'nausea'})",0.06463414634146342,0.16614420062695925,2.4328257948947605
+"frozenset({'high fever', 'abdominal pain'})",frozenset({'vomiting'}),0.06463414634146342,0.9464285714285714,2.4328257948947605
+"frozenset({'chills', 'nausea'})",frozenset({'vomiting'}),0.06463414634146342,0.9464285714285714,2.4328257948947605
+frozenset({'vomiting'}),"frozenset({'high fever', 'abdominal pain'})",0.06463414634146342,0.16614420062695925,2.4328257948947605
+"frozenset({'yellowing of eyes', 'joint pain'})",frozenset({'vomiting'}),0.06463414634146342,0.9464285714285714,2.4328257948947605
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'joint pain'})",0.06463414634146342,0.16614420062695925,2.4328257948947605
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'nausea'}),0.06219512195121951,0.5666666666666667,2.432809773123909
+frozenset({'nausea'}),"frozenset({'dark urine', 'yellowish skin'})",0.06219512195121951,0.2670157068062827,2.432809773123909
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'nausea'}),0.06219512195121951,0.5666666666666667,2.432809773123909
+frozenset({'nausea'}),"frozenset({'yellowish skin', 'fatigue'})",0.06219512195121951,0.2670157068062827,2.432809773123909
+frozenset({'vomiting'}),"frozenset({'joint pain', 'loss of appetite'})",0.08536585365853659,0.219435736677116,2.43158519020588
+"frozenset({'nausea', 'high fever'})",frozenset({'vomiting'}),0.08536585365853659,0.945945945945946,2.43158519020588
+frozenset({'vomiting'}),"frozenset({'nausea', 'high fever'})",0.08536585365853659,0.219435736677116,2.43158519020588
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'vomiting'}),0.08536585365853659,0.945945945945946,2.43158519020588
+"frozenset({'headache', 'nausea'})",frozenset({'vomiting'}),0.10609756097560975,0.9456521739130435,2.4308300395256914
+frozenset({'vomiting'}),"frozenset({'headache', 'nausea'})",0.10609756097560975,0.2727272727272727,2.4308300395256914
+"frozenset({'joint pain', 'abdominal pain'})",frozenset({'vomiting'}),0.06341463414634146,0.9454545454545454,2.4303220290681105
+frozenset({'vomiting'}),"frozenset({'joint pain', 'abdominal pain'})",0.06341463414634146,0.16300940438871472,2.4303220290681105
+frozenset({'vomiting'}),"frozenset({'joint pain', 'nausea'})",0.08414634146341464,0.2163009404388715,2.4296817967106112
+"frozenset({'joint pain', 'nausea'})",frozenset({'vomiting'}),0.08414634146341464,0.9452054794520549,2.4296817967106112
+frozenset({'vomiting'}),"frozenset({'nausea', 'abdominal pain'})",0.1048780487804878,0.2695924764890282,2.429294843087946
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'vomiting'}),0.1048780487804878,0.945054945054945,2.429294843087946
+frozenset({'vomiting'}),"frozenset({'joint pain', 'fatigue'})",0.06219512195121951,0.15987460815047022,2.427725531173807
+"frozenset({'nausea', 'dark urine'})",frozenset({'vomiting'}),0.06219512195121951,0.9444444444444444,2.427725531173807
+frozenset({'vomiting'}),"frozenset({'joint pain', 'yellowish skin'})",0.06219512195121951,0.15987460815047022,2.427725531173807
+"frozenset({'joint pain', 'fatigue'})",frozenset({'vomiting'}),0.06219512195121951,0.9444444444444444,2.427725531173807
+frozenset({'vomiting'}),"frozenset({'nausea', 'dark urine'})",0.06219512195121951,0.15987460815047022,2.427725531173807
+"frozenset({'joint pain', 'dark urine'})",frozenset({'vomiting'}),0.06219512195121951,0.9444444444444444,2.427725531173807
+frozenset({'vomiting'}),"frozenset({'joint pain', 'dark urine'})",0.06219512195121951,0.15987460815047022,2.427725531173807
+"frozenset({'joint pain', 'yellowish skin'})",frozenset({'vomiting'}),0.06219512195121951,0.9444444444444444,2.427725531173807
+frozenset({'vomiting'}),"frozenset({'nausea', 'diarrhoea'})",0.06097560975609756,0.1567398119122257,2.425031052226888
+"frozenset({'nausea', 'diarrhoea'})",frozenset({'vomiting'}),0.06097560975609756,0.9433962264150942,2.425031052226888
+frozenset({'nausea'}),frozenset({'diarrhoea'}),0.06463414634146342,0.2774869109947644,2.4206305001670936
+frozenset({'diarrhoea'}),frozenset({'nausea'}),0.06463414634146342,0.5638297872340425,2.4206305001670936
+"frozenset({'chest pain', 'phlegm'})",frozenset({'fatigue'}),0.06829268292682927,0.9491525423728815,2.417096536477524
+frozenset({'fatigue'}),frozenset({'phlegm'}),0.06829268292682927,0.17391304347826086,2.417096536477524
+frozenset({'fatigue'}),"frozenset({'chest pain', 'phlegm'})",0.06829268292682927,0.17391304347826086,2.417096536477524
+frozenset({'phlegm'}),frozenset({'fatigue'}),0.06829268292682927,0.9491525423728815,2.417096536477524
+frozenset({'malaise'}),frozenset({'fatigue'}),0.1353658536585366,0.9487179487179489,2.4159898072941557
+frozenset({'fatigue'}),frozenset({'malaise'}),0.1353658536585366,0.3447204968944099,2.4159898072941552
+frozenset({'fatigue'}),"frozenset({'chest pain', 'malaise'})",0.06707317073170732,0.17080745341614909,2.4148639965731427
+frozenset({'fatigue'}),frozenset({'swelled lymph nodes'}),0.06707317073170732,0.17080745341614909,2.4148639965731427
+frozenset({'swelled lymph nodes'}),frozenset({'fatigue'}),0.06707317073170732,0.9482758620689656,2.414863996573142
+"frozenset({'chest pain', 'malaise'})",frozenset({'fatigue'}),0.06707317073170732,0.9482758620689656,2.414863996573142
+"frozenset({'malaise', 'loss of appetite'})",frozenset({'fatigue'}),0.08902439024390243,0.948051948051948,2.414293780753408
+frozenset({'fatigue'}),"frozenset({'malaise', 'loss of appetite'})",0.08902439024390243,0.22670807453416147,2.414293780753408
+frozenset({'chills'}),frozenset({'headache'}),0.09024390243902439,0.556390977443609,2.4139714365278273
+frozenset({'headache'}),frozenset({'chills'}),0.09024390243902439,0.3915343915343915,2.4139714365278273
+frozenset({'weight loss'}),frozenset({'fatigue'}),0.08780487804878048,0.9473684210526315,2.412553121935273
+frozenset({'fatigue'}),frozenset({'weight loss'}),0.08780487804878048,0.22360248447204967,2.412553121935273
+frozenset({'fatigue'}),"frozenset({'chest pain', 'chills'})",0.06585365853658537,0.16770186335403728,2.412553121935273
+"frozenset({'chest pain', 'high fever'})",frozenset({'fatigue'}),0.06585365853658537,0.9473684210526315,2.412553121935273
+"frozenset({'phlegm', 'malaise'})",frozenset({'fatigue'}),0.06585365853658537,0.9473684210526315,2.412553121935273
+frozenset({'fatigue'}),"frozenset({'swelled lymph nodes', 'malaise'})",0.06585365853658537,0.16770186335403728,2.412553121935273
+"frozenset({'swelled lymph nodes', 'malaise'})",frozenset({'fatigue'}),0.06585365853658537,0.9473684210526315,2.412553121935273
+frozenset({'fatigue'}),"frozenset({'phlegm', 'malaise'})",0.06585365853658537,0.16770186335403728,2.412553121935273
+"frozenset({'chest pain', 'chills'})",frozenset({'fatigue'}),0.06585365853658537,0.9473684210526315,2.412553121935273
+frozenset({'fatigue'}),"frozenset({'chest pain', 'high fever'})",0.06585365853658537,0.16770186335403728,2.412553121935273
+frozenset({'fatigue'}),"frozenset({'high fever', 'loss of appetite'})",0.08658536585365853,0.22049689440993786,2.410766045548654
+"frozenset({'high fever', 'loss of appetite'})",frozenset({'fatigue'}),0.08658536585365853,0.9466666666666667,2.410766045548654
+frozenset({'fatigue'}),"frozenset({'cough', 'phlegm'})",0.06463414634146342,0.16459627329192547,2.410159716060337
+frozenset({'fatigue'}),"frozenset({'chills', 'phlegm'})",0.06463414634146342,0.16459627329192547,2.410159716060337
+frozenset({'fatigue'}),"frozenset({'headache', 'malaise'})",0.06463414634146342,0.16459627329192547,2.410159716060337
+"frozenset({'phlegm', 'high fever'})",frozenset({'fatigue'}),0.06463414634146342,0.9464285714285714,2.410159716060337
+"frozenset({'headache', 'malaise'})",frozenset({'fatigue'}),0.06463414634146342,0.9464285714285714,2.410159716060337
+frozenset({'fatigue'}),"frozenset({'phlegm', 'high fever'})",0.06463414634146342,0.16459627329192547,2.410159716060337
+"frozenset({'chills', 'phlegm'})",frozenset({'fatigue'}),0.06463414634146342,0.9464285714285714,2.410159716060337
+"frozenset({'cough', 'phlegm'})",frozenset({'fatigue'}),0.06463414634146342,0.9464285714285714,2.410159716060337
+"frozenset({'high fever', 'malaise'})",frozenset({'fatigue'}),0.10609756097560975,0.9456521739130435,2.40818255468539
+frozenset({'fatigue'}),"frozenset({'high fever', 'malaise'})",0.10609756097560975,0.27018633540372666,2.4081825546853897
+"frozenset({'swelled lymph nodes', 'high fever'})",frozenset({'fatigue'}),0.06341463414634146,0.9454545454545454,2.4076792772444944
+frozenset({'fatigue'}),"frozenset({'swelled lymph nodes', 'high fever'})",0.06341463414634146,0.16149068322981366,2.4076792772444944
+frozenset({'fatigue'}),"frozenset({'cough', 'malaise'})",0.06341463414634146,0.16149068322981366,2.4076792772444944
+"frozenset({'cough', 'malaise'})",frozenset({'fatigue'}),0.06341463414634146,0.9454545454545454,2.4076792772444944
+frozenset({'fatigue'}),"frozenset({'chills', 'malaise'})",0.08414634146341464,0.2142857142857143,2.4070450097847362
+"frozenset({'chills', 'malaise'})",frozenset({'fatigue'}),0.08414634146341464,0.9452054794520549,2.407045009784736
+frozenset({'fatigue'}),"frozenset({'chills', 'cough'})",0.06219512195121951,0.15838509316770186,2.4051069703243613
+"frozenset({'chills', 'cough'})",frozenset({'fatigue'}),0.06219512195121951,0.9444444444444444,2.4051069703243613
+"frozenset({'vomiting', 'fatigue'})",frozenset({'loss of appetite'}),0.08658536585365853,0.5590551181102362,2.3876312335958003
+frozenset({'loss of appetite'}),"frozenset({'vomiting', 'fatigue'})",0.08658536585365853,0.36979166666666663,2.3876312335958003
+frozenset({'nausea'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.06219512195121951,0.2670157068062827,2.379922604142955
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'nausea'}),0.06219512195121951,0.5543478260869565,2.379922604142955
+frozenset({'lethargy'}),frozenset({'fatigue'}),0.08658536585365853,0.9342105263157894,2.3790454396861715
+frozenset({'fatigue'}),frozenset({'lethargy'}),0.08658536585365853,0.22049689440993786,2.3790454396861715
+frozenset({'fatigue'}),"frozenset({'cough', 'high fever'})",0.08048780487804878,0.20496894409937888,2.3672469600209958
+"frozenset({'cough', 'high fever'})",frozenset({'fatigue'}),0.08048780487804878,0.9295774647887325,2.3672469600209958
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'nausea'}),0.08658536585365853,0.5503875968992248,2.362920573075206
+frozenset({'nausea'}),"frozenset({'loss of appetite', 'fatigue'})",0.08658536585365853,0.3717277486910994,2.3629205730752054
+"frozenset({'breathlessness', 'high fever'})",frozenset({'fatigue'}),0.06097560975609756,0.9259259259259258,2.357948010121923
+frozenset({'fatigue'}),"frozenset({'breathlessness', 'high fever'})",0.06097560975609756,0.15527950310559005,2.357948010121923
+"frozenset({'breathlessness', 'cough'})",frozenset({'fatigue'}),0.05975609756097561,0.9245283018867924,2.3543888433141915
+frozenset({'fatigue'}),"frozenset({'breathlessness', 'cough'})",0.05975609756097561,0.15217391304347824,2.3543888433141915
+frozenset({'chest pain'}),"frozenset({'high fever', 'fatigue'})",0.06585365853658537,0.4655172413793104,2.3418658768775122
+"frozenset({'high fever', 'fatigue'})",frozenset({'chest pain'}),0.06585365853658537,0.3312883435582822,2.3418658768775122
+frozenset({'nausea'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.08414634146341464,0.3612565445026178,2.332522570804304
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'nausea'}),0.08414634146341464,0.5433070866141733,2.332522570804304
+frozenset({'abdominal pain'}),"frozenset({'vomiting', 'high fever'})",0.06463414634146342,0.308139534883721,2.3181139321527633
+"frozenset({'vomiting', 'high fever'})",frozenset({'abdominal pain'}),0.06463414634146342,0.4862385321100917,2.318113932152763
+frozenset({'headache'}),"frozenset({'nausea', 'vomiting'})",0.10609756097560975,0.4603174603174603,2.315707469081702
+"frozenset({'nausea', 'vomiting'})",frozenset({'headache'}),0.10609756097560975,0.5337423312883435,2.3157074690817017
+frozenset({'loss of appetite'}),"frozenset({'nausea', 'vomiting'})",0.1073170731707317,0.4583333333333333,2.305725971370143
+"frozenset({'nausea', 'vomiting'})",frozenset({'loss of appetite'}),0.1073170731707317,0.5398773006134969,2.305725971370143
+frozenset({'abdominal pain'}),frozenset({'joint pain'}),0.06707317073170732,0.31976744186046513,2.3000815993472052
+frozenset({'joint pain'}),frozenset({'abdominal pain'}),0.06707317073170732,0.4824561403508772,2.3000815993472052
+frozenset({'abdominal pain'}),"frozenset({'nausea', 'fatigue'})",0.06463414634146342,0.308139534883721,2.2970401691331928
+"frozenset({'nausea', 'fatigue'})",frozenset({'abdominal pain'}),0.06463414634146342,0.4818181818181818,2.2970401691331923
+frozenset({'abdominal pain'}),frozenset({'itching'}),0.06585365853658537,0.313953488372093,2.2782465527886395
+frozenset({'itching'}),frozenset({'abdominal pain'}),0.06585365853658537,0.47787610619469023,2.2782465527886395
+frozenset({'abdominal pain'}),frozenset({'nausea'}),0.11097560975609756,0.5290697674418605,2.2713990015828567
+frozenset({'nausea'}),frozenset({'abdominal pain'}),0.11097560975609756,0.47643979057591623,2.2713990015828567
+frozenset({'yellowish skin'}),"frozenset({'nausea', 'vomiting'})",0.08292682926829269,0.4473684210526316,2.2505650629641587
+"frozenset({'nausea', 'vomiting'})",frozenset({'yellowish skin'}),0.08292682926829269,0.4171779141104294,2.2505650629641587
+frozenset({'vomiting'}),frozenset({'nausea'}),0.19878048780487806,0.5109717868338558,2.193700864941161
+frozenset({'nausea'}),frozenset({'vomiting'}),0.19878048780487806,0.8534031413612565,2.1937008649411607
+frozenset({'vomiting'}),frozenset({'abdominal pain'}),0.17682926829268292,0.45454545454545453,2.1670190274841437
+frozenset({'abdominal pain'}),frozenset({'vomiting'}),0.17682926829268292,0.8430232558139534,2.1670190274841437
+"frozenset({'vomiting', 'fatigue'})",frozenset({'yellowish skin'}),0.06219512195121951,0.4015748031496063,2.16639038541235
+frozenset({'yellowish skin'}),"frozenset({'vomiting', 'fatigue'})",0.06219512195121951,0.3355263157894737,2.16639038541235
+"frozenset({'nausea', 'fatigue'})",frozenset({'headache'}),0.06585365853658537,0.4909090909090909,2.1298701298701297
+frozenset({'headache'}),"frozenset({'nausea', 'fatigue'})",0.06585365853658537,0.2857142857142857,2.1298701298701297
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'high fever'}),0.06585365853658537,0.5869565217391305,2.120283470599502
+"frozenset({'headache', 'nausea'})",frozenset({'high fever'}),0.06585365853658537,0.5869565217391305,2.120283470599502
+frozenset({'high fever'}),"frozenset({'headache', 'nausea'})",0.06585365853658537,0.23788546255506607,2.1202834705995017
+frozenset({'high fever'}),"frozenset({'abdominal pain', 'fatigue'})",0.06585365853658537,0.23788546255506607,2.1202834705995017
+"frozenset({'vomiting', 'high fever'})",frozenset({'loss of appetite'}),0.06585365853658537,0.4954128440366972,2.1158256880733943
+frozenset({'loss of appetite'}),"frozenset({'vomiting', 'high fever'})",0.06585365853658537,0.28125,2.1158256880733943
+"frozenset({'high fever', 'vomiting'})",frozenset({'headache'}),0.06463414634146342,0.4862385321100917,2.1096063297898158
+frozenset({'headache'}),"frozenset({'high fever', 'vomiting'})",0.06463414634146342,0.2804232804232804,2.1096063297898158
+"frozenset({'chills', 'high fever'})",frozenset({'nausea'}),0.06585365853658537,0.4909090909090909,2.1075678248453116
+frozenset({'nausea'}),"frozenset({'chills', 'high fever'})",0.06585365853658537,0.28272251308900526,2.1075678248453116
+frozenset({'nausea'}),frozenset({'headache'}),0.11219512195121951,0.4816753926701571,2.089808581955179
+frozenset({'headache'}),frozenset({'nausea'}),0.11219512195121951,0.48677248677248675,2.0898085819551784
+frozenset({'vomiting'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.12560975609756098,0.3228840125391849,2.0847629156073357
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'vomiting'}),0.12560975609756098,0.8110236220472441,2.0847629156073357
+frozenset({'malaise'}),frozenset({'headache'}),0.06829268292682927,0.4786324786324787,2.076606521050966
+frozenset({'headache'}),frozenset({'malaise'}),0.06829268292682927,0.2962962962962963,2.0766065210509654
+"frozenset({'malaise', 'fatigue'})",frozenset({'headache'}),0.06463414634146342,0.4774774774774775,2.0715954049287384
+frozenset({'headache'}),"frozenset({'malaise', 'fatigue'})",0.06463414634146342,0.2804232804232804,2.071595404928738
+frozenset({'loss of appetite'}),frozenset({'itching'}),0.06585365853658537,0.28125,2.040929203539823
+frozenset({'itching'}),frozenset({'loss of appetite'}),0.06585365853658537,0.47787610619469023,2.0409292035398225
+frozenset({'vomiting'}),"frozenset({'nausea', 'loss of appetite'})",0.1073170731707317,0.27586206896551724,2.0378999689344517
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'vomiting'}),0.1073170731707317,0.7927927927927927,2.0378999689344512
+"frozenset({'chills', 'high fever'})",frozenset({'fatigue'}),0.1073170731707317,0.7999999999999999,2.0372670807453415
+frozenset({'fatigue'}),"frozenset({'chills', 'high fever'})",0.1073170731707317,0.27329192546583847,2.037267080745341
+frozenset({'vomiting'}),"frozenset({'nausea', 'fatigue'})",0.10609756097560975,0.2727272727272727,2.0330578512396693
+"frozenset({'nausea', 'fatigue'})",frozenset({'vomiting'}),0.10609756097560975,0.7909090909090909,2.0330578512396693
+"frozenset({'high fever', 'vomiting'})",frozenset({'fatigue'}),0.10609756097560975,0.7981651376146789,2.0325944498262007
+frozenset({'fatigue'}),"frozenset({'high fever', 'vomiting'})",0.10609756097560975,0.27018633540372666,2.0325944498262003
+frozenset({'vomiting'}),"frozenset({'abdominal pain', 'loss of appetite'})",0.1048780487804878,0.2695924764890282,2.028126887348652
+"frozenset({'abdominal pain', 'loss of appetite'})",frozenset({'vomiting'}),0.1048780487804878,0.7889908256880733,2.028126887348652
+frozenset({'chills'}),"frozenset({'nausea', 'vomiting'})",0.06463414634146342,0.39849624060150374,2.0047050140689144
+"frozenset({'nausea', 'vomiting'})",frozenset({'chills'}),0.06463414634146342,0.32515337423312884,2.0047050140689144
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'high fever'}),0.08658536585365853,0.5503875968992248,1.9881842707372877
+frozenset({'high fever'}),"frozenset({'loss of appetite', 'fatigue'})",0.08658536585365853,0.3127753303964757,1.9881842707372874
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'vomiting'}),0.08536585365853659,0.7692307692307693,1.9773330118157706
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'nausea'})",0.08536585365853659,0.219435736677116,1.9773330118157704
+frozenset({'fatigue'}),"frozenset({'headache', 'high fever'})",0.08658536585365853,0.22049689440993786,1.9652984066972723
+"frozenset({'headache', 'high fever'})",frozenset({'fatigue'}),0.08658536585365853,0.7717391304347825,1.965298406697272
+frozenset({'abdominal pain'}),"frozenset({'loss of appetite', 'fatigue'})",0.06463414634146342,0.308139534883721,1.9587164232918697
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'abdominal pain'}),0.06463414634146342,0.4108527131782946,1.9587164232918697
+frozenset({'vomiting'}),"frozenset({'abdominal pain', 'fatigue'})",0.08536585365853659,0.219435736677116,1.9558402616873383
+"frozenset({'abdominal pain', 'fatigue'})",frozenset({'vomiting'}),0.08536585365853659,0.7608695652173914,1.9558402616873383
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'vomiting'}),0.08414634146341464,0.7582417582417583,1.9490853973612596
+frozenset({'vomiting'}),"frozenset({'dark urine', 'abdominal pain'})",0.08414634146341464,0.2163009404388715,1.9490853973612596
+frozenset({'vomiting'}),frozenset({'dark urine'}),0.08780487804878048,0.225705329153605,1.9481933674311167
+frozenset({'dark urine'}),frozenset({'vomiting'}),0.08780487804878048,0.7578947368421052,1.9481933674311167
+frozenset({'vomiting'}),"frozenset({'dark urine', 'yellowish skin'})",0.08292682926829269,0.21316614420062696,1.9421804249390457
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'vomiting'}),0.08292682926829269,0.7555555555555556,1.9421804249390457
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'vomiting'}),0.08292682926829269,0.7555555555555556,1.9421804249390457
+frozenset({'vomiting'}),"frozenset({'nausea', 'yellowish skin'})",0.08292682926829269,0.21316614420062696,1.9421804249390457
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.08658536585365853,0.22257053291536047,1.9415727339425062
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'vomiting'}),0.08658536585365853,0.7553191489361701,1.9415727339425062
+frozenset({'fatigue'}),"frozenset({'dark urine', 'abdominal pain'})",0.08414634146341464,0.2142857142857143,1.9309262166405026
+"frozenset({'dark urine', 'abdominal pain'})",frozenset({'fatigue'}),0.08414634146341464,0.7582417582417583,1.9309262166405026
+frozenset({'fatigue'}),frozenset({'dark urine'}),0.08780487804878048,0.22360248447204967,1.930042497548218
+frozenset({'dark urine'}),frozenset({'fatigue'}),0.08780487804878048,0.7578947368421052,1.930042497548218
+"frozenset({'dark urine', 'yellowish skin'})",frozenset({'fatigue'}),0.08292682926829269,0.7555555555555556,1.9240855762594895
+frozenset({'fatigue'}),"frozenset({'dark urine', 'yellowish skin'})",0.08292682926829269,0.2111801242236025,1.9240855762594893
+frozenset({'diarrhoea'}),frozenset({'vomiting'}),0.08536585365853659,0.7446808510638299,1.914226639098246
+frozenset({'vomiting'}),frozenset({'diarrhoea'}),0.08536585365853659,0.219435736677116,1.9142266390982459
+frozenset({'cough'}),frozenset({'fatigue'}),0.08536585365853659,0.7446808510638299,1.8963922294172064
+frozenset({'fatigue'}),frozenset({'cough'}),0.08536585365853659,0.21739130434782608,1.8963922294172062
+"frozenset({'high fever', 'fatigue'})",frozenset({'headache'}),0.08658536585365853,0.4355828220858895,1.8898302333885153
+frozenset({'headache'}),"frozenset({'high fever', 'fatigue'})",0.08658536585365853,0.37566137566137564,1.8898302333885153
+frozenset({'loss of appetite'}),"frozenset({'high fever', 'fatigue'})",0.08658536585365853,0.36979166666666663,1.8603016359918199
+"frozenset({'high fever', 'fatigue'})",frozenset({'loss of appetite'}),0.08658536585365853,0.4355828220858895,1.8603016359918196
+frozenset({'fatigue'}),"frozenset({'chills', 'headache'})",0.06585365853658537,0.16770186335403728,1.8583179452744671
+frozenset({'fatigue'}),"frozenset({'nausea', 'high fever'})",0.06585365853658537,0.16770186335403728,1.8583179452744671
+"frozenset({'nausea', 'high fever'})",frozenset({'fatigue'}),0.06585365853658537,0.7297297297297298,1.8583179452744671
+"frozenset({'chills', 'headache'})",frozenset({'fatigue'}),0.06585365853658537,0.7297297297297298,1.8583179452744671
+"frozenset({'high fever', 'loss of appetite'})",frozenset({'vomiting'}),0.06585365853658537,0.7200000000000001,1.8507836990595612
+frozenset({'vomiting'}),"frozenset({'high fever', 'loss of appetite'})",0.06585365853658537,0.16927899686520376,1.8507836990595612
+frozenset({'fatigue'}),"frozenset({'chills', 'vomiting'})",0.06463414634146342,0.16459627329192547,1.8488896451969712
+"frozenset({'chills', 'vomiting'})",frozenset({'fatigue'}),0.06463414634146342,0.726027397260274,1.848889645196971
+frozenset({'vomiting'}),"frozenset({'chills', 'headache'})",0.06463414634146342,0.16614420062695925,1.8410573582987377
+"frozenset({'chills', 'headache'})",frozenset({'vomiting'}),0.06463414634146342,0.7162162162162162,1.8410573582987375
+frozenset({'fatigue'}),"frozenset({'chest pain', 'cough'})",0.06585365853658537,0.16770186335403728,1.8335403726708077
+"frozenset({'chest pain', 'cough'})",frozenset({'fatigue'}),0.06585365853658537,0.7200000000000001,1.8335403726708075
+frozenset({'vomiting'}),"frozenset({'dark urine', 'loss of appetite'})",0.06341463414634146,0.16300940438871472,1.8310645424485765
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'vomiting'}),0.06341463414634146,0.7123287671232877,1.8310645424485765
+frozenset({'fatigue'}),frozenset({'high fever'}),0.19878048780487806,0.5062111801242236,1.8286042630038033
+frozenset({'high fever'}),frozenset({'fatigue'}),0.19878048780487806,0.7180616740088106,1.8286042630038033
+frozenset({'vomiting'}),frozenset({'yellowish skin'}),0.13170731707317074,0.3385579937304075,1.8264312819666721
+frozenset({'yellowish skin'}),frozenset({'vomiting'}),0.13170731707317074,0.7105263157894737,1.8264312819666721
+frozenset({'fatigue'}),"frozenset({'joint pain', 'loss of appetite'})",0.06463414634146342,0.16459627329192547,1.8239046499916067
+"frozenset({'joint pain', 'loss of appetite'})",frozenset({'fatigue'}),0.06463414634146342,0.7162162162162162,1.8239046499916065
+frozenset({'muscle pain'}),frozenset({'vomiting'}),0.06829268292682927,0.7088607594936709,1.822149914685925
+frozenset({'vomiting'}),frozenset({'muscle pain'}),0.06829268292682927,0.1755485893416928,1.822149914685925
+frozenset({'vomiting'}),"frozenset({'dark urine', 'fatigue'})",0.06219512195121951,0.15987460815047022,1.8207941483803554
+"frozenset({'dark urine', 'fatigue'})",frozenset({'vomiting'}),0.06219512195121951,0.7083333333333334,1.8207941483803554
+frozenset({'fatigue'}),frozenset({'excessive hunger'}),0.06707317073170732,0.17080745341614909,1.818988464951198
+frozenset({'excessive hunger'}),frozenset({'fatigue'}),0.06707317073170732,0.7142857142857143,1.8189884649511978
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.06463414634146342,0.16614420062695925,1.8165099268547547
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'vomiting'}),0.06463414634146342,0.7066666666666667,1.8165099268547544
+"frozenset({'joint pain', 'nausea'})",frozenset({'fatigue'}),0.06341463414634146,0.7123287671232877,1.8140049349102358
+frozenset({'fatigue'}),"frozenset({'dark urine', 'loss of appetite'})",0.06341463414634146,0.16149068322981366,1.8140049349102358
+"frozenset({'dark urine', 'loss of appetite'})",frozenset({'fatigue'}),0.06341463414634146,0.7123287671232877,1.8140049349102358
+frozenset({'fatigue'}),"frozenset({'joint pain', 'nausea'})",0.06341463414634146,0.16149068322981366,1.8140049349102358
+"frozenset({'vomiting', 'fatigue'})",frozenset({'headache'}),0.06463414634146342,0.4173228346456693,1.8106070074574012
+frozenset({'headache'}),"frozenset({'vomiting', 'fatigue'})",0.06463414634146342,0.2804232804232804,1.810607007457401
+frozenset({'chills'}),frozenset({'nausea'}),0.06829268292682927,0.4210526315789474,1.8076605125378893
+frozenset({'nausea'}),frozenset({'chills'}),0.06829268292682927,0.29319371727748694,1.8076605125378893
+frozenset({'fatigue'}),frozenset({'irritability'}),0.06829268292682927,0.17391304347826086,1.8051733626857456
+frozenset({'irritability'}),frozenset({'fatigue'}),0.06829268292682927,0.7088607594936709,1.8051733626857456
+frozenset({'fatigue'}),"frozenset({'joint pain', 'vomiting'})",0.06219512195121951,0.15838509316770186,1.8038302277432712
+"frozenset({'joint pain', 'vomiting'})",frozenset({'fatigue'}),0.06219512195121951,0.7083333333333334,1.8038302277432712
+frozenset({'fatigue'}),"frozenset({'dark urine', 'vomiting'})",0.06219512195121951,0.15838509316770186,1.8038302277432712
+"frozenset({'dark urine', 'vomiting'})",frozenset({'fatigue'}),0.06219512195121951,0.7083333333333334,1.8038302277432712
+frozenset({'fatigue'}),frozenset({'breathlessness'}),0.06463414634146342,0.16459627329192547,1.7995859213250518
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'dark urine'})",0.06463414634146342,0.16459627329192547,1.7995859213250518
+"frozenset({'yellowing of eyes', 'dark urine'})",frozenset({'fatigue'}),0.06463414634146342,0.7066666666666667,1.7995859213250516
+frozenset({'breathlessness'}),frozenset({'fatigue'}),0.06463414634146342,0.7066666666666667,1.7995859213250516
+"frozenset({'headache', 'vomiting'})",frozenset({'high fever'}),0.06463414634146342,0.4953271028037383,1.7892873317139444
+frozenset({'high fever'}),"frozenset({'headache', 'vomiting'})",0.06463414634146342,0.23348017621145373,1.7892873317139444
+frozenset({'high fever'}),frozenset({'chest pain'}),0.06951219512195123,0.2511013215859031,1.7750265836244876
+frozenset({'chest pain'}),frozenset({'high fever'}),0.06951219512195123,0.4913793103448277,1.7750265836244874
+"frozenset({'nausea', 'fatigue'})",frozenset({'high fever'}),0.06585365853658537,0.4909090909090909,1.7733279935923105
+frozenset({'high fever'}),"frozenset({'nausea', 'fatigue'})",0.06585365853658537,0.23788546255506607,1.7733279935923105
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'vomiting'}),0.10975609756097561,0.6870229007633588,1.7660149800186653
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.10975609756097561,0.28213166144200624,1.766014980018665
+frozenset({'chills'}),frozenset({'fatigue'}),0.11219512195121951,0.6917293233082706,1.761546723952739
+frozenset({'fatigue'}),frozenset({'chills'}),0.11219512195121951,0.2857142857142857,1.761546723952739
+frozenset({'high fever'}),frozenset({'headache'}),0.11219512195121951,0.4052863436123348,1.7583851945085425
+frozenset({'headache'}),frozenset({'high fever'}),0.11219512195121951,0.48677248677248675,1.7583851945085422
+frozenset({'yellowing of eyes'}),frozenset({'vomiting'}),0.11341463414634147,0.6838235294117647,1.7577908906509312
+frozenset({'vomiting'}),frozenset({'yellowing of eyes'}),0.11341463414634147,0.29153605015673983,1.7577908906509312
+"frozenset({'yellowing of eyes', 'loss of appetite'})",frozenset({'fatigue'}),0.10853658536585366,0.6793893129770993,1.7301218529230478
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'loss of appetite'})",0.10853658536585366,0.2763975155279503,1.7301218529230475
+frozenset({'high fever'}),frozenset({'sweating'}),0.06585365853658537,0.23788546255506607,1.7262484893376475
+frozenset({'sweating'}),frozenset({'high fever'}),0.06585365853658537,0.47787610619469023,1.7262484893376473
+frozenset({'fatigue'}),frozenset({'yellowing of eyes'}),0.11219512195121951,0.2857142857142857,1.722689075630252
+frozenset({'yellowing of eyes'}),frozenset({'fatigue'}),0.11219512195121951,0.676470588235294,1.7226890756302518
+frozenset({'loss of appetite'}),frozenset({'vomiting'}),0.15609756097560976,0.6666666666666666,1.7136886102403341
+frozenset({'vomiting'}),frozenset({'loss of appetite'}),0.15609756097560976,0.4012539184952978,1.7136886102403341
+frozenset({'loss of appetite'}),frozenset({'fatigue'}),0.1573170731707317,0.671875,1.7109860248447204
+frozenset({'fatigue'}),frozenset({'loss of appetite'}),0.1573170731707317,0.40062111801242234,1.7109860248447204
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.08536585365853659,0.219435736677116,1.6357936734112282
+frozenset({'vomiting'}),"frozenset({'chills', 'high fever'})",0.08536585365853659,0.219435736677116,1.6357936734112282
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'vomiting'}),0.08536585365853659,0.6363636363636364,1.6357936734112282
+"frozenset({'chills', 'high fever'})",frozenset({'vomiting'}),0.08536585365853659,0.6363636363636364,1.6357936734112282
+frozenset({'fatigue'}),"frozenset({'nausea', 'loss of appetite'})",0.08658536585365853,0.22049689440993786,1.6288959767220634
+"frozenset({'nausea', 'loss of appetite'})",frozenset({'fatigue'}),0.08658536585365853,0.6396396396396395,1.6288959767220634
+frozenset({'vomiting'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.08414634146341464,0.2163009404388715,1.627218084035547
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'vomiting'}),0.08414634146341464,0.6330275229357798,1.6272180840355468
+frozenset({'vomiting'}),frozenset({'joint pain'}),0.08780487804878048,0.225705329153605,1.623494472859264
+frozenset({'joint pain'}),frozenset({'vomiting'}),0.08780487804878048,0.6315789473684209,1.6234944728592637
+frozenset({'fatigue'}),frozenset({'sweating'}),0.08780487804878048,0.22360248447204967,1.622602099708679
+frozenset({'sweating'}),frozenset({'fatigue'}),0.08780487804878048,0.6371681415929202,1.6226020997086787
+frozenset({'fatigue'}),"frozenset({'yellowish skin', 'loss of appetite'})",0.08414634146341464,0.2142857142857143,1.6120576671035387
+"frozenset({'yellowish skin', 'loss of appetite'})",frozenset({'fatigue'}),0.08414634146341464,0.6330275229357798,1.6120576671035385
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'yellowish skin'})",0.08414634146341464,0.2142857142857143,1.5974025974025974
+"frozenset({'yellowing of eyes', 'yellowish skin'})",frozenset({'fatigue'}),0.08414634146341464,0.6272727272727273,1.5974025974025974
+frozenset({'vomiting'}),frozenset({'sweating'}),0.08536585365853659,0.219435736677116,1.5923655227896911
+frozenset({'sweating'}),frozenset({'vomiting'}),0.08536585365853659,0.6194690265486725,1.5923655227896911
+"frozenset({'high fever', 'fatigue'})",frozenset({'abdominal pain'}),0.06585365853658537,0.3312883435582822,1.5793979169639034
+frozenset({'abdominal pain'}),"frozenset({'high fever', 'fatigue'})",0.06585365853658537,0.313953488372093,1.5793979169639034
+frozenset({'high fever'}),"frozenset({'nausea', 'vomiting'})",0.08536585365853659,0.30837004405286345,1.5513094240696197
+"frozenset({'nausea', 'vomiting'})",frozenset({'high fever'}),0.08536585365853659,0.4294478527607362,1.5513094240696197
+frozenset({'high fever'}),"frozenset({'vomiting', 'loss of appetite'})",0.06585365853658537,0.23788546255506607,1.523953744493392
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'high fever'}),0.06585365853658537,0.421875,1.523953744493392
+frozenset({'yellowish skin'}),frozenset({'fatigue'}),0.10975609756097561,0.5921052631578947,1.5078457012095454
+frozenset({'fatigue'}),frozenset({'yellowish skin'}),0.10975609756097561,0.2795031055900621,1.5078457012095454
+frozenset({'fatigue'}),"frozenset({'headache', 'nausea'})",0.06585365853658537,0.16770186335403728,1.4947339994598974
+"frozenset({'headache', 'nausea'})",frozenset({'fatigue'}),0.06585365853658537,0.5869565217391305,1.4947339994598974
+frozenset({'fatigue'}),"frozenset({'nausea', 'abdominal pain'})",0.06463414634146342,0.16459627329192547,1.4831752098832844
+"frozenset({'nausea', 'abdominal pain'})",frozenset({'fatigue'}),0.06463414634146342,0.5824175824175825,1.4831752098832844
+frozenset({'vomiting'}),"frozenset({'headache', 'high fever'})",0.06463414634146342,0.16614420062695925,1.4808504838489847
+frozenset({'vomiting'}),"frozenset({'chills', 'fatigue'})",0.06463414634146342,0.16614420062695925,1.4808504838489847
+"frozenset({'chills', 'fatigue'})",frozenset({'vomiting'}),0.06463414634146342,0.5760869565217391,1.4808504838489847
+"frozenset({'headache', 'fatigue'})",frozenset({'vomiting'}),0.06463414634146342,0.5760869565217391,1.4808504838489847
+"frozenset({'yellowing of eyes', 'fatigue'})",frozenset({'vomiting'}),0.06463414634146342,0.5760869565217391,1.4808504838489847
+frozenset({'vomiting'}),"frozenset({'headache', 'fatigue'})",0.06463414634146342,0.16614420062695925,1.4808504838489847
+frozenset({'vomiting'}),"frozenset({'yellowing of eyes', 'fatigue'})",0.06463414634146342,0.16614420062695925,1.4808504838489847
+"frozenset({'headache', 'high fever'})",frozenset({'vomiting'}),0.06463414634146342,0.5760869565217391,1.4808504838489847
+frozenset({'fatigue'}),frozenset({'nausea'}),0.13414634146341464,0.34161490683229817,1.4666189717407565
+frozenset({'nausea'}),frozenset({'fatigue'}),0.13414634146341464,0.5759162303664922,1.4666189717407565
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'abdominal pain'})",0.06585365853658537,0.16770186335403728,1.4629311484075591
+"frozenset({'yellowing of eyes', 'abdominal pain'})",frozenset({'fatigue'}),0.06585365853658537,0.574468085106383,1.4629311484075591
+frozenset({'vomiting'}),"frozenset({'yellowish skin', 'fatigue'})",0.06219512195121951,0.15987460815047022,1.4566353187042842
+"frozenset({'yellowish skin', 'fatigue'})",frozenset({'vomiting'}),0.06219512195121951,0.5666666666666667,1.4566353187042842
+frozenset({'vomiting'}),frozenset({'headache'}),0.13048780487804879,0.33542319749216304,1.4552752483786968
+frozenset({'headache'}),frozenset({'vomiting'}),0.13048780487804879,0.5661375661375662,1.4552752483786966
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'vomiting'})",0.06463414634146342,0.16459627329192547,1.4512789688105256
+"frozenset({'yellowing of eyes', 'vomiting'})",frozenset({'fatigue'}),0.06463414634146342,0.5698924731182796,1.4512789688105256
+frozenset({'fatigue'}),"frozenset({'nausea', 'yellowish skin'})",0.06219512195121951,0.15838509316770186,1.4430641821946169
+"frozenset({'nausea', 'yellowish skin'})",frozenset({'fatigue'}),0.06219512195121951,0.5666666666666667,1.4430641821946169
+frozenset({'skin rash'}),frozenset({'high fever'}),0.06341463414634146,0.3969465648854962,1.433903890775801
+frozenset({'high fever'}),frozenset({'skin rash'}),0.06341463414634146,0.22907488986784139,1.433903890775801
+frozenset({'fatigue'}),"frozenset({'yellowing of eyes', 'nausea'})",0.06219512195121951,0.15838509316770186,1.427206334038632
+"frozenset({'yellowing of eyes', 'nausea'})",frozenset({'fatigue'}),0.06219512195121951,0.5604395604395604,1.427206334038632
+frozenset({'nausea'}),"frozenset({'high fever', 'fatigue'})",0.06585365853658537,0.28272251308900526,1.422285035171683
+"frozenset({'high fever', 'fatigue'})",frozenset({'nausea'}),0.06585365853658537,0.3312883435582822,1.4222850351716827
+"frozenset({'loss of appetite', 'fatigue'})",frozenset({'vomiting'}),0.08658536585365853,0.5503875968992248,1.4147894340356248
+frozenset({'vomiting'}),"frozenset({'loss of appetite', 'fatigue'})",0.08658536585365853,0.22257053291536047,1.4147894340356246
+frozenset({'fatigue'}),"frozenset({'vomiting', 'loss of appetite'})",0.08658536585365853,0.22049689440993786,1.4125582298136645
+"frozenset({'vomiting', 'loss of appetite'})",frozenset({'fatigue'}),0.08658536585365853,0.5546875,1.4125582298136645
+frozenset({'high fever'}),frozenset({'loss of appetite'}),0.09146341463414634,0.33039647577092507,1.4110682819383258
+frozenset({'loss of appetite'}),frozenset({'high fever'}),0.09146341463414634,0.39062499999999994,1.4110682819383256
+frozenset({'vomiting'}),frozenset({'chills'}),0.08902439024390243,0.2288401253918495,1.4108940061753126
+frozenset({'chills'}),frozenset({'vomiting'}),0.08902439024390243,0.5488721804511277,1.4108940061753126
+frozenset({'nausea'}),frozenset({'high fever'}),0.09024390243902439,0.38743455497382195,1.3995433263371542
+frozenset({'high fever'}),frozenset({'nausea'}),0.09024390243902439,0.32599118942731276,1.3995433263371542
+frozenset({'fatigue'}),"frozenset({'yellowish skin', 'abdominal pain'})",0.08414634146341464,0.2142857142857143,1.3835770528683915
+"frozenset({'yellowish skin', 'abdominal pain'})",frozenset({'fatigue'}),0.08414634146341464,0.5433070866141733,1.3835770528683915
+"frozenset({'high fever', 'fatigue'})",frozenset({'vomiting'}),0.10609756097560975,0.5337423312883435,1.3720022308979363
+frozenset({'vomiting'}),"frozenset({'high fever', 'fatigue'})",0.10609756097560975,0.2727272727272727,1.3720022308979363
+frozenset({'fatigue'}),frozenset({'abdominal pain'}),0.11219512195121951,0.2857142857142857,1.3621262458471761
+frozenset({'abdominal pain'}),frozenset({'fatigue'}),0.11219512195121951,0.5348837209302326,1.3621262458471761
+frozenset({'fatigue'}),"frozenset({'nausea', 'vomiting'})",0.10609756097560975,0.27018633540372666,1.3592196014175206
+"frozenset({'nausea', 'vomiting'})",frozenset({'fatigue'}),0.10609756097560975,0.5337423312883435,1.3592196014175206
+frozenset({'high fever'}),"frozenset({'vomiting', 'abdominal pain'})",0.06463414634146342,0.23348017621145373,1.320370651678566
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'high fever'}),0.06463414634146342,0.36551724137931035,1.3203706516785658
+frozenset({'fatigue'}),"frozenset({'headache', 'vomiting'})",0.06463414634146342,0.16459627329192547,1.2613920009287747
+"frozenset({'headache', 'vomiting'})",frozenset({'fatigue'}),0.06463414634146342,0.4953271028037383,1.2613920009287745
+frozenset({'fatigue'}),frozenset({'chest pain'}),0.06951219512195123,0.17701863354037267,1.251338616406083
+frozenset({'chest pain'}),frozenset({'fatigue'}),0.06951219512195123,0.4913793103448277,1.251338616406083
+frozenset({'headache'}),frozenset({'fatigue'}),0.11219512195121951,0.48677248677248675,1.239606953892668
+frozenset({'fatigue'}),frozenset({'headache'}),0.11219512195121951,0.2857142857142857,1.239606953892668
+frozenset({'fatigue'}),"frozenset({'loss of appetite', 'abdominal pain'})",0.06463414634146342,0.16459627329192547,1.2382471935722832
+"frozenset({'loss of appetite', 'abdominal pain'})",frozenset({'fatigue'}),0.06463414634146342,0.4862385321100917,1.2382471935722832
+frozenset({'vomiting'}),frozenset({'high fever'}),0.1329268292682927,0.34169278996865204,1.2343087567149544
+frozenset({'high fever'}),frozenset({'vomiting'}),0.1329268292682927,0.48017621145374445,1.2343087567149544
+"frozenset({'vomiting', 'abdominal pain'})",frozenset({'fatigue'}),0.08536585365853659,0.48275862068965525,1.229385307346327
+frozenset({'fatigue'}),"frozenset({'vomiting', 'abdominal pain'})",0.08536585365853659,0.21739130434782608,1.2293853073463268
+frozenset({'fatigue'}),frozenset({'itching'}),0.06585365853658537,0.16770186335403728,1.2169515747815094
+frozenset({'itching'}),frozenset({'fatigue'}),0.06585365853658537,0.47787610619469023,1.2169515747815092
+frozenset({'fatigue'}),frozenset({'joint pain'}),0.06585365853658537,0.16770186335403728,1.2062765609676365
+frozenset({'joint pain'}),frozenset({'fatigue'}),0.06585365853658537,0.47368421052631576,1.2062765609676365
+"frozenset({'vomiting', 'yellowish skin'})",frozenset({'fatigue'}),0.06219512195121951,0.4722222222222222,1.2025534851621806
+frozenset({'fatigue'}),"frozenset({'vomiting', 'yellowish skin'})",0.06219512195121951,0.15838509316770186,1.2025534851621806
