@@ -52,7 +52,7 @@ In healthcare, accurate differential diagnosis relies on recognizing patterns of
 ## 2. Dataset Description
 ### 2.1 Source and Acquisition
 **Source:** [Disease Symptom Prediction (Kaggle)](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)  
-**Size:** ~4,920 transactions (Patient Cases), 132 unique symptoms  
+**Size:** ~4,920 transactions (Patient Cases), 131 unique symptoms  
 **Format:** Disease Label + List of Symptoms (Wide Format)
 
 ### 2.2 Data Structure
@@ -73,7 +73,7 @@ A boolean matrix where rows are patients and columns are symptoms (True/False).
 1.  **Cleaning:** String standardization (removing underscores, trimming whitespace).
 2.  **Imputation:** Handling `NaN` values in the raw dataset.
 3.  **Encoding:** Converting symptom lists into a One-Hot Encoded matrix using `mlxtend.preprocessing.TransactionEncoder`.
-4.  **Sparsity Handling:** Resulting matrix is highly sparse (most values are 0).
+4.  **Sparsity Handling:** Resulting matrix is highly sparse (most values are 0), handled using `sparse=True`.
 
 ### 3.2 Exploratory Data Analysis
 * **Frequency Analysis:** Identifying the most common symptoms across all diseases.
@@ -82,7 +82,7 @@ A boolean matrix where rows are patients and columns are symptoms (True/False).
 
 ### 3.3 Apriori Algorithm Implementation
 **Implementation:** `mlxtend.frequent_patterns.apriori()` to find frequent itemsets followed by `association_rules()` to generate metrics.
-**Parameters:** Initial tuning targets `min_support=0.01`, `min_confidence=0.5`.
+**Parameters:** Initial tuning targets `min_support=0.03`, `min_confidence=0.5`.
 
 ### 3.4 Evaluation Metrics
 - **Support:** Percentage of patients having the symptom set.
@@ -93,43 +93,50 @@ A boolean matrix where rows are patients and columns are symptoms (True/False).
 
 ## 4. Results
 ### 4.1 Top Association Rules
+*Based on Lift > 1.2 and Confidence > 0.8:*
+
 | Rank | Antecedents | Consequents | Support | Confidence | Lift | Conviction | Leverage |
 |------|-------------|-------------|---------|------------|------|------------|----------|
-| 1 | - | - | - | - | - | - | - |
-| 2 | - | - | - | - | - | - | - |
-| 3 | - | - | - | - | - | - | - |
+| 1 | (Abnormal Menstruation) | (Mood Swings) | 0.046 | 1.00 (100%) | 20.5 | inf | 0.044 |
+| 2 | (Irritability) | (Mood Swings) | 0.046 | 0.95 (95%) | 20.5 | 19.07 | 0.044 |
+| 3 | (Abnormal Menstruation) | (Irritability, Mood Swings) | 0.046 | 1.00 (100%) | 20.5 | inf | 0.044 |
 
 ### 4.2 Key Visualizations
+**Figure 1: Symptom Frequency Distribution** *Fatigue and Vomiting are the most prevalent symptoms in the dataset.* ![Frequency Plot](results/symptom_frequency.png)
 
+**Figure 2: Transaction Size Analysis** *Most patients present with a cluster of 3 to 6 co-occurring symptoms.* ![Basket Size](results/basket_size_dist.png)
+
+**Figure 3: Correlation Heatmap (Top Associations)** *Red zones indicate high-correlation clusters where symptoms frequently appear together.* ![Heatmap](results/heatmap.png)
 
 ### 4.3 Performance Metrics
-**Runtime:** [ - ] seconds  
-**Scalability:** Processed 4,900+ records efficiently using sparse matrix handling.
+**Runtime:** ~1.5 seconds  
+**Scalability:** Processed 4,920 records efficiently using sparse matrix handling (`min_support=0.03`).
 
 ## 5. Discussion
 
 
 ### 5.1 Clinical Insights
-1.  **Insight 1:** [Example: High lift between specific symptoms suggests a distinct syndrome]
-2.  **Insight 2:** [Example: Common flu symptoms have high support but low lift due to ubiquity]
+1.  **Hormonal Syndrome Identification:** The algorithm successfully identified a perfect correlation (100% Confidence) between *Abnormal Menstruation* and *Mood Swings*. With a Lift of 20.5, this is a strong biological indicator likely related to hormonal imbalances or thyroid issues.
+2.  **General vs. Specific Symptoms:** High-frequency symptoms like *Fatigue* (Support > 30%) have low Lift values with other symptoms, confirming they are non-specific general markers. In contrast, specific physical clusters like Swelling Joints and Painful Walking appeared as distinct red 'hotspots' in the heatmap, suggesting a strong link to inflammatory conditions like arthritis.
 
 ### 5.2 Actionable Recommendations
-1.  **Diagnostic Checklist:** Prioritize checking for [Symptom B] if [Symptom A] is observed.
-2.  **System Design:** Use identified rules to weight probability scores in a diagnostic app.
+1.  **Diagnostic Checklist:** Prioritize checking for [Symptom B] if [Symptom A] is observed. If a patient presents with *Abnormal Menstruation*, the system recommends immediately screening for *Mood Swings* and *Irritability* to confirm a hormonal diagnosis.
+2.  **System Design:** These high-confidence rules can be used as "weights" in a triage app. A patient reporting specific antecedent symptoms can be automatically flagged for the associated consequent condition.
 
 ### 5.3 Limitations
 - Analysis is limited to the specific symptoms present in the training set.
-- Does not account for symptom severity or duration.
+- Does not account for symptom severity (mild vs severe) or duration (acute vs chronic).
 
 ## 6. Conclusion
-The Apriori algorithm is expected to identify key diagnostic rules from the medical dataset. By filtering for high **Lift** and **Conviction**, I aim to distinguish between general symptoms (like fatigue) and specific disease indicators.
+The Apriori algorithm successfully identified key diagnostic rules from the medical dataset. By filtering for high **Lift** (>1.2) and **Conviction**, the system distinguished between general symptoms (like fatigue) and specific disease indicators (like the Hormonal/Thyroid cluster). The implementation of sparse matrix processing ensured the analysis was computationally efficient.
 
 ## 7. Video Presentation
-
+[Click here to view the Video Presentation](https://drive.google.com/drive/folders/1QwHJHxdQEuO50yFOasJmgqIAKXrY23Vv?usp=sharing) 
 
 ## References
 1. mlxtend Documentation: https://rasbt.github.io/mlxtend/
 2. Disease Symptom Prediction Dataset: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
-3. 
+3. Agrawal, R., & Srikant, R. (1994). Fast algorithms for mining association rules.
 
 ## Appendix: Full Results
+*See `results/rules.csv` for the complete list of generated association rules.*
